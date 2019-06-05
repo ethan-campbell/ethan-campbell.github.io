@@ -16,7 +16,11 @@ My research primarily uses observations of the ocean to develop a better underst
 
 ## Recent news
 
-* **June 2019**: My first paper as lead author, titled "[Antarctic offshore polynyas linked to Southern Hemisphere climate anomalies](https://www.nature.com/articles/s41586-019-1294-0)," is (almost!) out in *Nature*. See [Research](/research/) for a summary of this study.
+* **June 2019**: My first paper as lead author, titled "Antarctic offshore polynyas linked to Southern Hemisphere climate anomalies," is (almost!) out in *Nature*. See [Research](/research/) for a summary of this study.
+
+<!--
+	SUBSTITUTE IN THIS LINK: [Antarctic offshore polynyas linked to Southern Hemisphere climate anomalies](https://www.nature.com/articles/s41586-019-1294-0)
+-->
 
 * **May 2019**: I attended the [ECCO Summer School](https://www.eccosummerschool.org) at Friday Harbor Labs on San Juan Island, WA. Thanks to the organizers for a wonderfully stimulating two weeks!
 
