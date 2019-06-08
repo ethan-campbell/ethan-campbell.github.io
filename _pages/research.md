@@ -6,9 +6,9 @@ author_profile: true
 classes: wide
 ---
 
-The ice-covered Southern Ocean around Antarctica is a dynamic region, featuring substantial variability in seasonal ice cover as well as heat, salt, and biogeochemical fluxes. My research is focused on the role of this region in global climate.
+The ice-covered Southern Ocean around Antarctica is a dynamic region that plays a key role in global climate. It is characterized by substantial spatial and temporal variability in heat, salt, and biogeochemical fluxes.
 
-I am most interested in air-ice-ocean interactions, offshore polynyas, and bottom water formation. The primary tools I use in my research are under-ice hydrographic measurements, remote sensing, and atmospheric reanalysis.
+My research focuses on several processes within this region: air-ice-ocean interactions, offshore polynyas, and bottom water formation. The primary tools I have used in my research are under-ice hydrographic measurements, remote sensing, and atmospheric reanalysis.
 
 ## Offshore polynyas in the Weddell Sea
 
