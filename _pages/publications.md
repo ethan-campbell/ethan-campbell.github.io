@@ -12,7 +12,8 @@ classes: wide
 
 ## Peer-reviewed
 
-* **Campbell, E.C.**, Wilson, E.A., Moore, G.W.K., Riser, S.C., Brayton, C.E., Mazloff, M.R., Talley, L.D. (2019). Antarctic offshore polynyas linked to Southern Hemisphere climate anomalies. *Nature*, in press. doi:10.1038/s41586-019-1294-0.
+* **Campbell, E.C.**, Wilson, E.A., Moore, G.W.K., Riser, S.C., Brayton, C.E., Mazloff, M.R., Talley, L.D. (2019). Antarctic offshore polynyas linked to Southern Hemisphere climate anomalies. *Nature*, in press. doi:10.1038/s41586-019-1294-0.  
+&ensp; &ensp; &#8674; Code available at [GitHub](https://github.com/ethan-campbell/Weddell_polynya_paper).
 
 <!--
 	SUBSTITUTE IN THIS LINK: doi:[10.1038/s41586-019-1294-0](https://www.nature.com/articles/s41586-019-1294-0)
