@@ -12,8 +12,9 @@ classes: wide
 
 ## Peer-reviewed
 
-* **Campbell, E.C.**, Wilson, E.A., Moore, G.W.K., Riser, S.C., Brayton, C.E., Mazloff, M.R., Talley, L.D. (2019). Antarctic offshore polynyas linked to Southern Hemisphere climate anomalies. *Nature*, in press. doi:[10.1038/s41586-019-1294-0](https://www.nature.com/articles/s41586-019-1294-0). \[[Free read-only ePDF](https://rdcu.be/bGeh4)\]  
-&ensp; &ensp; &#8674; Code available at [GitHub](https://github.com/ethan-campbell/Weddell_polynya_paper).
+* **Campbell, E.C.**, Wilson, E.A., Moore, G.W.K., Riser, S.C., Brayton, C.E., Mazloff, M.R., Talley, L.D. (2019). Antarctic offshore polynyas linked to Southern Hemisphere climate anomalies. *Nature*, in press. doi:[10.1038/s41586-019-1294-0](https://www.nature.com/articles/s41586-019-1294-0). \[[ePDF](https://rdcu.be/bGeh4)\]   
+&ensp; &ensp; &#8674; Code available at [GitHub](https://github.com/ethan-campbell/Weddell_polynya_paper)  
+&ensp; &ensp; &#8674; Press releases: [UW](http://www.washington.edu/news/2019/06/10/mysterious-holes-in-antarctic-sea-ice-explained-by-years-of-robotic-data/), [SIO](https://scripps.ucsd.edu/news/mysterious-holes-antarctic-sea-ice-explained-years-robotic-data)
 
 * Wilson, E.A., Riser, S.C., **Campbell, E.C.**, Wong, A.P.S. (2019). Winter upper-ocean stability and ice&ndash;ocean feedbacks in the sea ice&ndash;covered Southern Ocean. *Journal of Physical Oceanography*, **49**(4), 1099-1117. doi:[10.1175/JPO-D-18-0184.1](https://journals.ametsoc.org/doi/full/10.1175/JPO-D-18-0184.1).
 
