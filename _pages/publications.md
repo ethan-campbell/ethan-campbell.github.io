@@ -15,9 +15,11 @@ classes: wide
 <ul>
 <li style="margin-bottom: 3px;"><b>Campbell, E.C.</b>, Wilson, E.A., Moore, G.W.K., Riser, S.C., Brayton, C.E., Mazloff, M.R., Talley, L.D. (2019). Antarctic offshore polynyas linked to Southern Hemisphere climate anomalies. <i>Nature</i>. doi:<a href="https://www.nature.com/articles/s41586-019-1294-0">10.1038/s41586-019-1294-0</a>. [<a href="https://rdcu.be/bGeh4">ePDF</a>]</li>
 <ul style="list-style: none; margin-left:0px;">
+<font size="-1">
 <li style="margin-bottom: 0px;">&#8674; Code available at <a href="https://github.com/ethan-campbell/Weddell_polynya_paper">GitHub</a></li>
 <li style="margin-bottom: 0px;">&#8674; Press releases: <a href="http://www.washington.edu/news/2019/06/10/mysterious-holes-in-antarctic-sea-ice-explained-by-years-of-robotic-data/">UW</a>, <a href="https://scripps.ucsd.edu/news/mysterious-holes-antarctic-sea-ice-explained-years-robotic-data">SIO</a></li>
 <li style="margin-bottom: 0px;">&#8674; Media coverage: <a href="https://www.scientificamerican.com/article/storms-salty-water-caused-mystery-hole-in-antarctic-sea-ice/">Scientific American</a>, <a href="https://www.atlasobscura.com/articles/holes-in-antarctic-ice">Atlas Obscura</a>, <a href="https://www.popsci.com/mysterious-holes-antarctica-sea-ice-polynyas">Popular Science</a>, <a href="https://www.cnet.com/news/mystery-of-giant-antarctic-ice-holes-solved-by-robots-tricked-out-seals/">CNET</a>, <a href="https://mashable.com/article/antarctica-holes-ice-polynya-explained/">Mashable</a>, <a href="https://www.cnn.com/2019/06/11/us/elephant-seal-antarctic-ice-hole-polynya-trnd/index.html">CNN</a>, <a href="https://www.insidescience.org/news/new-study-explains-how-big-holes-form-antarctic-ice-despite-cold">InsideScience</a>, <a href="https://www.livescience.com/65693-mysterious-antarctic-ice-holes-explained.html">LiveScience</a></li>
+</font>
 </ul>
 </ul>
 
