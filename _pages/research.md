@@ -39,7 +39,7 @@ The following are several projects that I have been actively working on (or just
 
 ## Collaborations
 
-* Drivers of recent temperature and sea ice variability in the Southern Ocean (led by [Earle Wilson](https://scholar.google.com/citations?user=UHSYElEAAAAJ&hl=en))
+* Drivers of recent temperature and sea ice variability in the Southern Ocean (led by [Earle Wilson](https://earlew.github.io))
 * Effect of Southern Ocean Taylor columns on biological productivity (led by [Channing Prend](https://cprend.github.io))
 
 ---
