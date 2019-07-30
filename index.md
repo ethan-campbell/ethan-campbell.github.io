@@ -8,15 +8,15 @@ classes: wide
 
 ## I am a physical oceanographer studying the sea ice and ocean around Antarctica.
 
-I am currently a third-year Ph.D. student in the [School of Oceanography](https://www.ocean.washington.edu) at University of Washington in Seattle, WA, advised by [Stephen Riser](https://environment.uw.edu/faculty/stephen-riser/) and funded by a National Defense Science and Engineering Graduate (NDSEG) Fellowship.
+I am currently pursuing my Ph.D. at the [School of Oceanography](https://www.ocean.washington.edu) at University of Washington in Seattle, WA, advised by [Stephen Riser](https://environment.uw.edu/faculty/stephen-riser/) and funded by a National Defense Science and Engineering Graduate (NDSEG) Fellowship.
 
-My research primarily uses observations of the ocean to develop a better understanding of air-ice-ocean interactions, offshore polynyas, and ventilation processes around Antarctica, as well as their role in global climate.
+My research uses observations of the ocean to develop a better understanding of air-ice-ocean interactions, offshore polynyas, and ventilation processes around Antarctica, as well as their role in global climate.
 
 ---
 
 ## Recent news
 
-* **June 2019**: My first paper as lead author, titled "[Antarctic offshore polynyas linked to Southern Hemisphere climate anomalies](https://www.nature.com/articles/s41586-019-1294-0)," is out in *Nature*. See [Research](/research/) for a summary of this study.
+* **June 2019**: My first paper as lead author, titled "[Antarctic offshore polynyas linked to Southern Hemisphere climate anomalies](https://www.nature.com/articles/s41586-019-1294-0)," is out in *Nature*. See [Research](/research/) for a summary of this study and [Publications](/publications/) for links to media coverage.
 
 * **May 2019**: I attended the [ECCO Summer School](https://www.eccosummerschool.org) at Friday Harbor Labs on San Juan Island, WA. Thanks to the organizers for a wonderfully stimulating two weeks!
 
