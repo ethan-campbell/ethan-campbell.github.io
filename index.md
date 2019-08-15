@@ -16,7 +16,7 @@ My research uses observations of the ocean to develop a better understanding of 
 
 ## Recent news
 
-* **August 2019**: I'll be speaking about Weddell Sea polynyas at the [IGS Sea Ice Symposium](http://www.igswpg.com) in Winnipeg on August 23 and at the NYU Courant [CAOS Colloquium](https://math.nyu.edu/dynamic/calendars/seminars/atmosphere-ocean-science-colloquium/) in New York on September 4.
+* **August 2019**: I'll be speaking about Weddell Sea polynyas at the [IGS Sea Ice Symposium](http://www.igswpg.com) in Winnipeg on August 23 and at the NYU Courant [AOS Colloquium](https://math.nyu.edu/dynamic/calendars/seminars/atmosphere-ocean-science-colloquium/) in New York on September 4.
 
 * **June 2019**: My first paper as lead author, titled "[Antarctic offshore polynyas linked to Southern Hemisphere climate anomalies](https://www.nature.com/articles/s41586-019-1294-0)," is out in *Nature*. See [Research](/research/) for a summary of this study and [Publications](/publications/) for links to media coverage.
 
