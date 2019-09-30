@@ -16,7 +16,7 @@ My research uses observations of the ocean to develop a better understanding of 
 
 ## Recent news
 
-* **September 2019**: I had a nice conversation with Dan Jones on his podcast, "Climate Scientists," in which we discuss Weddell Sea polynyas. Listen [here](https://anchor.fm/climate-scientists/episodes/Ethan-Campbell-e52ogj).
+* **September 2019**: I had a nice conversation with Dan Jones (BAS) on his podcast, "Climate Scientists," in which we discuss Weddell Sea polynyas. Listen [here](https://anchor.fm/climate-scientists/episodes/Ethan-Campbell-e52ogj).
 
 * **August 2019**: I'll be speaking about Weddell Sea polynyas at the [IGS Sea Ice Symposium](http://www.igswpg.com) in Winnipeg on August 23 and at the NYU Courant [AOS Colloquium](https://math.nyu.edu/dynamic/calendars/seminars/atmosphere-ocean-science-colloquium/) in New York on September 4.
 
