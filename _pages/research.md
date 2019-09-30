@@ -25,10 +25,10 @@ My research focuses on several processes within this region: air-ice-ocean inter
 
 The following are several projects that I have been actively working on (or just thinking about!). Of course, not all of these will be completed in the next few years of my PhD. [Contact me](mailto:ethancc@uw.edu) if any of these sound interesting or if you are engaged in similar research. I would be excited to collaborate!
 
-* Impact of storms on the upper ocean under sea ice
 * Reconstruction of Antarctic sea ice formation and melt from ocean salinity
+* Impact of storms on the upper ocean under sea ice
+* Effects of Taylor column dynamics on mixing, deep ventilation, and biogeochemistry
 * Changes in Southern Hemisphere subpolar gyre strength under anthropogenic forcing
-* Effects of Taylor column dynamics on mixing and deep ventilation
 * Pathways of Antarctic Bottom Water formation during glacial climates
 * Influence of offshore deep convection on records from Ocean Drilling Project (ODP) Sites 689 and 690 at Maud Rise
 
