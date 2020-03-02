@@ -8,7 +8,7 @@ classes: wide
 
 The ice-covered Southern Ocean around Antarctica is a dynamic region that plays a key role in global climate. It is characterized by substantial spatial and temporal variability in heat, salt, and biogeochemical fluxes.
 
-My research focuses on several processes within this region: air-ice-ocean interactions, offshore polynyas, and ventilation of deep waters (i.e. heat and gas exchange). The primary tools I have used in my research are under-ice hydrographic measurements, remote sensing, and atmospheric reanalysis.
+My research focuses on air-ice-ocean interactions, offshore polynyas, and the transformation and ventilation of deep waters within this region. The past decade has seen a substantial increase in under-ice hydrographic measurements from Argo floats and instrumented seals, and my research takes advantage of these new observational capabilities as well as remote sensing and atmospheric reanalysis.
 
 ## Offshore polynyas in the Weddell Sea
 
