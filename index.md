@@ -10,7 +10,7 @@ classes: wide
 
 I am currently pursuing my Ph.D. at the [School of Oceanography](https://www.ocean.washington.edu) at University of Washington in Seattle, WA, advised by [Stephen Riser](https://environment.uw.edu/faculty/stephen-riser/) and funded by a National Defense Science and Engineering Graduate (NDSEG) Fellowship.
 
-My research uses observations of the ocean to develop a better understanding of air-ice-ocean interactions, offshore polynyas, and ventilation processes around Antarctica, as well as their role in global climate.
+The focus of my research is using observations of the ice-covered Southern Ocean to develop a better understanding of sea ice processes and offshore polynyas around Antarctica, as well as their role in global climate.
 
 ---
 
