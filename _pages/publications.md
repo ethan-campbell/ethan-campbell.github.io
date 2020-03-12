@@ -10,6 +10,12 @@ classes: wide
 
 ![Deploying a CTD](/assets/images/CTD.jpg){:height="400px" width="1000px" style="border: 1px solid black"}
 
+## In progress
+
+* von Berg, L., Prend, C.J., **Campbell, E.C.**, Mazloff, M.R., Talley, L.D., Gille, S.T. (2020). Weddell Sea phytoplankton blooms modulated by sea ice variability and polynya formation. *Geophysical Research Letters*, submitted.
+
+---
+
 ## Peer-reviewed
 
 <ul>
