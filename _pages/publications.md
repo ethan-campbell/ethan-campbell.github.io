@@ -12,7 +12,7 @@ classes: wide
 
 ## In progress
 
-* von Berg, L., Prend, C.J., **Campbell, E.C.**, Mazloff, M.R., Talley, L.D., Gille, S.T. (2020). Weddell Sea phytoplankton blooms modulated by sea ice variability and polynya formation. *Geophysical Research Letters*, submitted.
+* von Berg, L., Prend, C.J., **Campbell, E.C.**, Mazloff, M.R., Talley, L.D., Gille, S.T. (2020). Weddell Sea phytoplankton blooms modulated by sea ice variability and polynya formation. *Geophysical Research Letters*, in review.
 
 ---
 
