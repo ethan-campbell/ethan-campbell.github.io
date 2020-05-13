@@ -33,8 +33,6 @@ The following are several projects that I have been actively working on (or just
 * Effects of Taylor column dynamics on mixing, deep ventilation, and biogeochemistry
 * Changes in Southern Hemisphere subpolar gyre strength under anthropogenic forcing
 * Pathways of Antarctic Bottom Water formation during glacial climates
-* Influence of offshore deep convection on records from Ocean Drilling Project (ODP) Sites 689 and 690 at Maud Rise
-
 
 ---
 <!---
