@@ -18,8 +18,6 @@ The focus of my research is using observations of the ice-covered Southern Ocean
 
 * **February 2020**: I'll be presenting [new work](https://agu.confex.com/agu/osm20/meetingapp.cgi/Paper/657323) on Antarctic sea ice growth and melt reconstructions using under-ice ocean observations at the Ocean Sciences Meeting in San Diego on February 21.
 
-* **January 2020**: In May of this year, I'll be spending a few weeks at NASA Goddard Space Flight Center as a visiting collaborator with the Cryospheric Sciences Lab!
-
 * **September 2019**: I had a nice conversation with Dan Jones from BAS on his podcast, "Climate Scientists," in which we discuss Weddell Sea polynyas. Listen [here](https://anchor.fm/climate-scientists/episodes/Ethan-Campbell-e52ogj).
 
 * **August 2019**: I'll be speaking about Weddell Sea polynyas at the [IGS Sea Ice Symposium](http://www.igswpg.com) in Winnipeg on August 23 and at the NYU Courant [AOS Colloquium](https://math.nyu.edu/dynamic/calendars/seminars/atmosphere-ocean-science-colloquium/) in New York on September 4.
