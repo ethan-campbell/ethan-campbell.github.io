@@ -10,13 +10,17 @@ classes: wide
 
 ![Deploying a CTD](/assets/images/CTD.jpg){:height="400px" width="1000px" style="border: 1px solid black"}
 
+<!---
 ## In progress
 
-* von Berg, L., Prend, C.J., **Campbell, E.C.**, Mazloff, M.R., Talley, L.D., Gille, S.T. (2020). Weddell Sea phytoplankton blooms modulated by sea ice variability and polynya formation. *Geophysical Research Letters*, in review.
+* ...
 
 ---
+--->
 
 ## Peer-reviewed
+
+* von Berg, L., Prend, C.J., **Campbell, E.C.**, Mazloff, M.R., Talley, L.D., Gille, S.T. (2020). Weddell Sea phytoplankton blooms modulated by sea ice variability and polynya formation. *Geophysical Research Letters*, in press.
 
 <ul>
 <li style="margin-bottom: 3px;"><b>Campbell, E.C.</b>, Wilson, E.A., Moore, G.W.K., Riser, S.C., Brayton, C.E., Mazloff, M.R., Talley, L.D. (2019). Antarctic offshore polynyas linked to Southern Hemisphere climate anomalies. <i>Nature</i>, <b>570</b>(7761), 319-325. doi:<a href="https://www.nature.com/articles/s41586-019-1294-0">10.1038/s41586-019-1294-0</a>. [<a href="https://rdcu.be/bGeh4">ePDF</a>]</li>
@@ -28,7 +32,6 @@ classes: wide
 </font>
 </ul>
 </ul>
-
 
 * Wilson, E.A., Riser, S.C., **Campbell, E.C.**, Wong, A.P.S. (2019). Winter upper-ocean stability and ice&ndash;ocean feedbacks in the sea ice&ndash;covered Southern Ocean. *Journal of Physical Oceanography*, **49**(4), 1099-1117. doi:[10.1175/JPO-D-18-0184.1](https://journals.ametsoc.org/doi/full/10.1175/JPO-D-18-0184.1).
 
