@@ -20,7 +20,14 @@ classes: wide
 
 ## Peer-reviewed
 
-* von Berg, L., Prend, C.J., **Campbell, E.C.**, Mazloff, M.R., Talley, L.D., Gille, S.T. (2020). Weddell Sea phytoplankton blooms modulated by sea ice variability and polynya formation. *Geophysical Research Letters*, in press.
+<ul>
+<li style="margin-bottom: 3px;">von Berg, L., Prend, C.J., <b>Campbell, E.C.</b>, Mazloff, M.R., Talley, L.D., Gille, S.T. (2020). Weddell Sea phytoplankton blooms modulated by sea ice variability and polynya formation. <i>Geophysical Research Letters</i>, <b>47</b>, e2020GL087954. doi:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087954">10.1029/2020GL087954</a>.</li>
+<ul style="list-style: none; margin-left:0px;">
+<font size="-1">
+<li style="margin-bottom: 0px;">&#8674; Supplementary code is available at <a href="https://github.com/ethan-campbell/Weddell_phyto_paper">GitHub</a></li>
+</font>
+</ul>
+</ul>
 
 <ul>
 <li style="margin-bottom: 3px;"><b>Campbell, E.C.</b>, Wilson, E.A., Moore, G.W.K., Riser, S.C., Brayton, C.E., Mazloff, M.R., Talley, L.D. (2019). Antarctic offshore polynyas linked to Southern Hemisphere climate anomalies. <i>Nature</i>, <b>570</b>(7761), 319-325. doi:<a href="https://www.nature.com/articles/s41586-019-1294-0">10.1038/s41586-019-1294-0</a>. [<a href="https://rdcu.be/bGeh4">ePDF</a>]</li>

@@ -16,6 +16,8 @@ The focus of my research is using observations of the ice-covered Southern Ocean
 
 ## Recent news
 
+* **May 2020**: A new study led by Lauren von Berg at Princeton and [Channing Prend](https://cprend.github.io) at SIO, titled "[Weddell Sea phytoplankton blooms modulated by sea ice variability and polynya formation](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL087954)," is now out in *Geophysical Research Letters*! We use float observations to characterize how spring and fall phytoplankton blooms are affected by the timing of sea ice retreat and recent polynyas at Maud Rise.
+
 * **February 2020**: I'll be presenting [new work](https://agu.confex.com/agu/osm20/meetingapp.cgi/Paper/657323) on Antarctic sea ice growth and melt reconstructions using under-ice ocean observations at the Ocean Sciences Meeting in San Diego on February 21.
 
 * **September 2019**: I had a nice conversation with Dan Jones from BAS on his podcast, "Climate Scientists," in which we discuss Weddell Sea polynyas. Listen [here](https://anchor.fm/climate-scientists/episodes/Ethan-Campbell-e52ogj).
