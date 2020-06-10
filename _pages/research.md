@@ -32,6 +32,7 @@ The following are several projects that I have been actively working on (or just
 
 * Reconstruction of Antarctic sea ice formation and melt from ocean salinity
 * Impact of storms on the upper ocean under sea ice
+* Snow loss processes on sea ice
 * Effects of Taylor column dynamics on mixing, deep ventilation, and biogeochemistry
 * Changes in Southern Hemisphere subpolar gyre strength under anthropogenic forcing
 * Pathways of Antarctic Bottom Water formation during glacial climates
