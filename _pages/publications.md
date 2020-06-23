@@ -25,6 +25,7 @@ classes: wide
 <ul style="list-style: none; margin-left:0px;">
 <font size="-1">
 <li style="margin-bottom: 0px;">&#8674; Supplementary code is available at <a href="https://github.com/ethan-campbell/Weddell_phyto_paper">GitHub</a></li>
+<li style="margin-bottom: 0px;">&#8674; Press release: <a href="https://www.princeton.edu/news/2020/06/22/lauren-von-berg-class-2020-publishes-research-internship-studying-antarctic-sea-ice">Princeton</a></li>
 </font>
 </ul>
 </ul>
