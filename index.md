@@ -16,7 +16,7 @@ The focus of my research is using observations of the ice-covered Southern Ocean
 
 ## Recent news
 
-* **May 2020**: A new paper led by Lauren von Berg at Princeton and [Channing Prend](https://cprend.github.io) at SIO, titled "[Weddell Sea phytoplankton blooms modulated by sea ice variability and polynya formation](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL087954)," is now out in *Geophysical Research Letters*. For more details on our study, see [Research](/research/).
+* **May 2020**: A new paper led by [Lauren von Berg](https://www.princeton.edu/news/2020/06/22/lauren-von-berg-class-2020-publishes-research-internship-studying-antarctic-sea-ice) at Princeton and [Channing Prend](https://cprend.github.io) at SIO, titled "[Weddell Sea phytoplankton blooms modulated by sea ice variability and polynya formation](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL087954)," is now out in *Geophysical Research Letters*. For more details on our study, see [Research](/research/).
 
 * **February 2020**: I'll be presenting [new work](https://agu.confex.com/agu/osm20/meetingapp.cgi/Paper/657323) on Antarctic sea ice growth and melt reconstructions using under-ice ocean observations at the Ocean Sciences Meeting in San Diego on February 21.
 
