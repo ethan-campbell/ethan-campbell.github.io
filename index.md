@@ -35,3 +35,14 @@ The focus of my research is using observations of the ice-covered Southern Ocean
 * **February 2019**: A new paper led by [Earle Wilson](https://earlew.github.io) at UW, titled "[Winter upper-ocean stability and ice&ndash;ocean feedbacks in the sea ice&ndash;covered Southern Ocean](https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-18-0184.1)," is out in *Journal of Physical Oceanography*. For more details on our study, see [Research](/research/).
 
 * **January 2019**: Over the next few months, I will be presenting [live shows](https://www.pacificsciencecenter.org/events/planetarium-polar-300/) on polar oceanography in the Willard Smith Planetarium at the Pacific Science Center in Seattle. This opportunity is thanks to PacSci's [Science Communication Fellowship](https://www.pacificsciencecenter.org/fellowship/).
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y4L523YJ0J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y4L523YJ0J');
+</script>
