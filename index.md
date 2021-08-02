@@ -6,9 +6,9 @@ classes: wide
 
 ![Sailing through sea ice](/assets/images/Pancake_ice.jpg){:height="400px" width="1000px" style="border: 1px solid black"}
 
-## I am a physical oceanographer studying the sea ice and ocean around Antarctica.
+## I study the sea ice and ocean around Antarctica.
 
-I am currently pursuing my Ph.D. at the [School of Oceanography](https://www.ocean.washington.edu) at University of Washington in Seattle, WA, advised by [Stephen Riser](https://environment.uw.edu/faculty/stephen-riser/) and funded by a National Defense Science and Engineering Graduate (NDSEG) Fellowship.
+I am currently a Ph.D. candidate in physical oceanography at the [School of Oceanography](https://www.ocean.washington.edu) at University of Washington in Seattle, WA, advised by [Stephen Riser](https://environment.uw.edu/faculty/stephen-riser/). I am funded by a National Defense Science and Engineering Graduate (NDSEG) Fellowship from 2017-2021.
 
 The focus of my research is using observations of the ice-covered Southern Ocean to develop a better understanding of sea ice processes and offshore polynyas around Antarctica, as well as their role in global climate.
 
