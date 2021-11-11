@@ -4,5 +4,7 @@ main:
     url: /research/
   - title: Publications
     url: /publications/
+  - title: Teaching
+    url: /OCEAN_215/
   - title: CV
     url: /about/
