@@ -16,7 +16,7 @@ The focus of my research is using observations of the ice-covered Southern Ocean
 
 ## Recent news
 
-* **February 2022**: At AGU's Fall Meeting in December, Katy Christensen and I virtually presented a retrospective study of our redesign of OCEAN 215, our department's introductory Python course; here is our [abstract](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/998855) and [poster](https://drive.google.com/file/d/1u4c5tIvcFms4IAnmtk0cwTh1N3DCx3xo/view?usp=sharing). We just learned that we received an Outstanding Student Presentation Award! Stay tuned for a forthcoming paper on our work...
+* **February 2022**: At the AGU Fall Meeting in December, Katy Christensen and I virtually presented a retrospective study of our redesign of OCEAN 215, our department's introductory Python course; here is our [abstract](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/998855) and [poster](https://drive.google.com/file/d/1u4c5tIvcFms4IAnmtk0cwTh1N3DCx3xo/view?usp=sharing). We just learned that we received an Outstanding Student Presentation Award! Stay tuned for a forthcoming paper on our work...
 
 * **January 2021**: I was selected for a two-year term as the [APECS](https://apecs.is) representative to the Southern Ocean Observing System (SOOS) [Weddell Sea–Dronning Maud Land Regional Working Group](http://www.soos.aq/activities/rwg/wsdml). The RWG is a multinational body that aims to coordinate observations and science in this interesting region of the Southern Ocean.
 
