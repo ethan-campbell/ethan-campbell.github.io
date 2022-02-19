@@ -32,7 +32,7 @@ The focus of my research is using observations of the ice-covered Southern Ocean
 
 * **June 2019**: My first paper as lead author, titled "[Antarctic offshore polynyas linked to Southern Hemisphere climate anomalies](https://www.nature.com/articles/s41586-019-1294-0)," is out in *Nature*. See [Research](/research/) for a summary of this study and [Publications](/publications/) for links to media coverage.
 
-* **April 2019**: The third annual UW Program on Climate Change (PCC) Spring Symposium, organized by myself and other members of the PCC [Graduate Student Steering Committee](https://pcc.uw.edu/people/graduate-student-steering-committee/), was a great success. Read about the event [here](https://pcc.uw.edu/blog/2019/05/09/the-third-annual-spring-symposium-was-held-on-april-27-2019/).
+* **April 2019**: The third annual UW Program on Climate Change (PCC) Spring Symposium was organized by myself and other members of the PCC [Graduate Student Steering Committee](https://pcc.uw.edu/people/graduate-student-steering-committee/). Read my PCC blog post about the event [here](https://pcc.uw.edu/blog/2019/05/09/the-third-annual-spring-symposium-was-held-on-april-27-2019/).
 
 * **February 2019**: A new paper led by [Earle Wilson](https://earlew.github.io) at UW, titled "[Winter upper-ocean stability and ice&ndash;ocean feedbacks in the sea ice&ndash;covered Southern Ocean](https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-18-0184.1)," is out in *Journal of Physical Oceanography*. For more details on our study, see [Research](/research/).
 
