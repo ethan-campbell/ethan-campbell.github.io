@@ -16,9 +16,11 @@ The focus of my research is using observations of the ice-covered Southern Ocean
 
 ## Recent news
 
+* **September 2022**: I presented a poster on "Pushing Seattle towards net zero: Opportunities for local advocacy and engagement" at the UW Program on Climate Change's Summer Institute on "Pathways to net zero" in Friday Harbor, WA. The poster can be viewed [here](https://drive.google.com/file/d/1i8ZHOGYXqMWO0tGKttS80YHMbWj5oVN6/view?usp=sharing).
+
 * **February 2022**: At the AGU Fall Meeting in December, Katy Christensen and I virtually presented a retrospective study of our redesign of OCEAN 215, our department's introductory Python course; here is our [abstract](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/998855) and [poster](https://drive.google.com/file/d/1u4c5tIvcFms4IAnmtk0cwTh1N3DCx3xo/view?usp=sharing). We just learned that we received an Outstanding Student Presentation Award! Stay tuned for a forthcoming paper on our work...
 
-* **January 2021**: I was selected for a two-year term as the [APECS](https://apecs.is) representative to the Southern Ocean Observing System (SOOS) [Weddell Sea–Dronning Maud Land Regional Working Group](http://www.soos.aq/activities/rwg/wsdml). The RWG is a multinational body that aims to coordinate observations and science in this interesting region of the Southern Ocean.
+* **January 2021**: I was selected for a three-year term as the [APECS](https://apecs.is) representative to the Southern Ocean Observing System (SOOS) [Weddell Sea–Dronning Maud Land Regional Working Group](http://www.soos.aq/activities/rwg/wsdml). The RWG is a multinational body that aims to coordinate observations and science in this interesting region of the Southern Ocean.
 
 * **December 2020**: [Katy Christensen](https://www.ocean.washington.edu/home/Katy%20Christensen) and I finished co-teaching OCEAN 215, an introductory Python data analysis course. We adopted a flipped, virtual format and redesigned the course to incorporate a variety of evidence-based teaching practices. Our course website can be accessed [at this link](https://ethan-campbell.github.io/OCEAN_215/); all recorded lessons and other materials are available for reuse.
 
