@@ -16,7 +16,7 @@ The focus of my research is using observations of the ice-covered Southern Ocean
 
 ## Recent news
 
-* **September 2022**: I presented a poster on "Pushing Seattle towards net zero: Opportunities for local advocacy and engagement" at the UW Program on Climate Change's Summer Institute on "Pathways to net zero" in Friday Harbor, WA. The poster can be viewed [here](https://drive.google.com/file/d/1i8ZHOGYXqMWO0tGKttS80YHMbWj5oVN6/view?usp=sharing).
+* **September 2022**: I presented a [poster](https://drive.google.com/file/d/1i8ZHOGYXqMWO0tGKttS80YHMbWj5oVN6/view?usp=sharing) on "Pushing Seattle towards net zero: Opportunities for local advocacy and engagement" at the UW Program on Climate Change's Summer Institute in Friday Harbor, WA. The topic of the workshop was "Pathways to net zero."
 
 * **February 2022**: At the AGU Fall Meeting in December, Katy Christensen and I virtually presented a retrospective study of our redesign of OCEAN 215, our department's introductory Python course; here is our [abstract](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/998855) and [poster](https://drive.google.com/file/d/1u4c5tIvcFms4IAnmtk0cwTh1N3DCx3xo/view?usp=sharing). We just learned that we received an Outstanding Student Presentation Award! Stay tuned for a forthcoming paper on our work...
 
