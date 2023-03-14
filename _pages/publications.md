@@ -55,6 +55,6 @@ classes: wide
 
 * Arndt, S., Janout, M.A., Biddle, L.C., **Campbell, E.C.**, Thomalla, S.J. (2022). The Weddell Sea and Dronning Maud Land (WS-DML) Regional Working Group Virtual Science Workshop, 14-16 June 2022. SOOS Report Series, #15. doi:[10.5281/zenodo.6931423](https://doi.org/10.5281/zenodo.6931423).
 
-* **Campbell, E.C.** (2016). Where three oceans meet: Nitrate isotope measurements from the South Atlantic along 34.5&deg;S. Senior thesis, Department of Geosciences, Princeton University. Available upon request, or at [arks.princeton.edu/ark:/88435/dsp01j3860941p](https://arks.princeton.edu/ark:/88435/dsp01j3860941p).
+* **Campbell, E.C.** (2016). Where three oceans meet: Nitrate isotope measurements from the South Atlantic along 34.5&deg;S. Senior thesis, Department of Geosciences, Princeton University. Available upon request, or at [arks.princeton.edu/ark:/88435/dsp01j3860941p](http://arks.princeton.edu/ark:/88435/dsp01j3860941p).
 
 ---
