@@ -20,6 +20,8 @@ classes: wide
 
 ## Peer-reviewed
 
+* Marshall, T.A., Sigman, D.M., Beal, L.M., Foreman, A., Mart&iacute;nez-Garc&iacute;a, A., Blain, S., **Campbell, E.C.**, Fripiat, F., Granger, R., Harris, E., Haug, G.H., Marconi, D., Oleynik, S., Rafter, P.A., Roman, R., Sinyanya, K., Smart, S.M., Fawcett, S.E. (2023). The Agulhas Current transports signals of local and remote Indian Ocean nitrogen cycling. *Journal of Geophysical Research&ndash;Oceans*, **128**(3), e2022JC019413. doi:[10.1029/2022JC019413](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JC019413).
+
 <ul>
 <li style="margin-bottom: 3px;">von Berg, L., Prend, C.J., <b>Campbell, E.C.</b>, Mazloff, M.R., Talley, L.D., Gille, S.T. (2020). Weddell Sea phytoplankton blooms modulated by sea ice variability and polynya formation. <i>Geophysical Research Letters</i>, <b>47</b>(11), e2020GL087954. doi:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087954">10.1029/2020GL087954</a>.</li>
 <ul style="list-style: none; margin-left:0px;">
