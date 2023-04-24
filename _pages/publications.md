@@ -18,6 +18,16 @@ classes: wide
 ---
 --->
 
+## In preparation
+
+* **Campbell, E.C.\***, Christensen, K.C.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. Cracking the code: A flipped, virtual approach to teaching Python in an undergraduate earth science setting. In prep for *Journal of Geoscience Education*. (* Co-first authors, reflecting equal contributions to this work)
+
+* **Campbell, E.C.**, Riser, S.C. Antarctic sea ice formation and melt rates estimated from under-ice Argo observations. In prep for *Journal of Geophysical Research&ndash;Oceans*.
+
+* **Campbell, E.C.**, Riser, S.C. Lagrangian reconstruction of snow accumulation and loss on Antarctic sea ice. In prep for *The Cryosphere*.
+
+---
+
 ## Peer-reviewed
 
 * Marshall, T.A., Sigman, D.M., Beal, L.M., Foreman, A., Mart&iacute;nez-Garc&iacute;a, A., Blain, S., **Campbell, E.C.**, Fripiat, F., Granger, R., Harris, E., Haug, G.H., Marconi, D., Oleynik, S., Rafter, P.A., Roman, R., Sinyanya, K., Smart, S.M., Fawcett, S.E. (2023). The Agulhas Current transports signals of local and remote Indian Ocean nitrogen cycling. *Journal of Geophysical Research&ndash;Oceans*, **128**(3), e2022JC019413. doi:[10.1029/2022JC019413](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JC019413).
@@ -56,15 +66,5 @@ classes: wide
 * Arndt, S., Janout, M.A., Biddle, L.C., **Campbell, E.C.**, Thomalla, S.J. (2022). The Weddell Sea and Dronning Maud Land (WS-DML) Regional Working Group Virtual Science Workshop, 14-16 June 2022. SOOS Report Series, #15. doi:[10.5281/zenodo.6931423](https://doi.org/10.5281/zenodo.6931423).
 
 * **Campbell, E.C.** (2016). Where three oceans meet: Nitrate isotope measurements from the South Atlantic along 34.5&deg;S. Senior thesis, Department of Geosciences, Princeton University. Available upon request, or at [arks.princeton.edu/ark:/88435/dsp01j3860941p](http://arks.princeton.edu/ark:/88435/dsp01j3860941p).
-
----
-
-## In preparation
-
-* **Campbell, E.C.\***, Christensen, K.C.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. Cracking the code: A flipped, virtual approach to teaching Python in an undergraduate earth science setting. In prep for *Journal of Geoscience Education*. (* Co-first authors, reflecting equal contributions to this work)
-
-* **Campbell, E.C.**, Riser, S.C. Antarctic sea ice formation and melt rates estimated from under-ice Argo observations. In prep for *Journal of Geophysical Research&ndash;Oceans*.
-
-* **Campbell, E.C.**, Riser, S.C. Lagrangian reconstruction of snow accumulation and loss on Antarctic sea ice. In prep for *The Cryosphere*.
 
 ---
