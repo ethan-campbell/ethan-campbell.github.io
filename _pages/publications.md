@@ -58,3 +58,13 @@ classes: wide
 * **Campbell, E.C.** (2016). Where three oceans meet: Nitrate isotope measurements from the South Atlantic along 34.5&deg;S. Senior thesis, Department of Geosciences, Princeton University. Available upon request, or at [arks.princeton.edu/ark:/88435/dsp01j3860941p](http://arks.princeton.edu/ark:/88435/dsp01j3860941p).
 
 ---
+
+## In preparation
+
+* **Campbell, E.C.***, Christensen, K.C.*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. Cracking the code: A flipped, virtual approach to teaching Python in an undergraduate earth science setting. In prep for *Journal of Geoscience Education*. (* Co-first authors, reflecting equal contributions to this work)
+
+* **Campbell, E.C.**, Riser, S.C. Antarctic sea ice formation and melt rates estimated from under-ice Argo observations. In prep for *Journal of Geophysical Research&ndash;Oceans.
+
+* **Campbell, E.C.**, Riser, S.C. Lagrangian reconstruction of snow accumulation and loss on Antarctic sea ice. In prep for *The Cryosphere*.
+
+---
