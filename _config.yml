@@ -97,7 +97,7 @@ author:
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=HFcYgF0AAAAJ&hl=en"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ethan-c-campbell/"
     - label: "ethan-campbell"
       icon: "fab fa-fw fa-github"
