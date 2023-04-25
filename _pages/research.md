@@ -6,9 +6,9 @@ author_profile: true
 classes: wide
 ---
 
-The ice-covered Southern Ocean around Antarctica is a dynamic region that plays a key role in global climate. It is characterized by substantial spatial and temporal variability in heat, salt, and biogeochemical fluxes.
+The ice-covered Southern Ocean around Antarctica is a dynamic region that plays a critical role in global climate. It is characterized by substantial spatial and temporal variability in heat, salt, and biogeochemical fluxes.
 
-My research focuses on air-ice-ocean interactions, offshore polynyas, and the transformation and ventilation of deep waters within this region. The past decade has seen an increase in under-ice hydrographic measurements from Argo floats and instrumented seals, and my research takes advantage of these new observational capabilities as well as remote sensing and atmospheric reanalysis.
+My research focuses on several key processes within this region: sea ice growth and melt, snow accumulation on sea ice, offshore polynyas, and the transformation and ventilation of deep waters. The past decade has seen an increase in under-ice hydrographic measurements from Argo floats and instrumented seals, and my research takes advantage of these new observational capabilities as well as remote sensing and atmospheric reanalysis.
 
 ## Offshore polynyas in the Weddell Sea
 
@@ -28,7 +28,7 @@ My research focuses on air-ice-ocean interactions, offshore polynyas, and the tr
 
 ## Ongoing and future work
 
-The following are several projects that I have been actively working on (or just thinking about!). Of course, not all of these will be completed in the next few years of my PhD. [Contact me](mailto:ethancc@uw.edu) if any of these sound interesting or if you are engaged in similar research. I would be excited to collaborate!
+The following are several projects that I have been actively working on (or just thinking about!). Stay tuned, and [contact me](mailto:ethancc@uw.edu) if any of these sound interesting or if you are engaged in similar research. I would be excited to collaborate.
 
 * Reconstruction of Antarctic sea ice formation and melt from ocean salinity
 * Impact of storms on the upper ocean under sea ice
