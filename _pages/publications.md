@@ -20,7 +20,7 @@ classes: wide
 
 ## In preparation
 
-* **Campbell, E.C.**\*, Christensen, K.C.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. Cracking the code: A flipped, virtual approach to teaching Python in an undergraduate earth science setting. In prep for *Journal of Geoscience Education*. *<small>(* Co-first authors, reflecting equal contributions to this work)</small>*
+* **Campbell, E.C.**\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. In prep for *Journal of Geoscience Education*. *<small>(* Co-first authors, reflecting equal contributions to this work)</small>*
 
 * **Campbell, E.C.**, Riser, S.C. Antarctic sea ice formation and melt rates estimated from under-ice Argo observations. In prep for *Journal of Geophysical Research&ndash;Oceans*.
 
