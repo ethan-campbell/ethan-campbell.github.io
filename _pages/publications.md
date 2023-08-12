@@ -24,7 +24,7 @@ classes: wide
 
 * **Campbell, E.C.**, Riser, S.C. Lagrangian reconstruction of snow accumulation and loss on Antarctic sea ice. In prep for *The Cryosphere*.
 
-* Submitted to *Journal of Geoscience Education:s* **Campbell, E.C.**\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. (2023). Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. *Earth and Space Science Open Archive*. doi:[10.22541/essoar.168839439.99576639/v1](https://essopenarchive.org/doi/full/10.22541/essoar.168839439.99576639/v1). *<small>(* Co-first authors, reflecting equal contributions to this work)</small>*
+* Submitted to *Journal of Geoscience Education:* **Campbell, E.C.**\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. (2023). Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. *Earth and Space Science Open Archive* [preprint]. doi:[10.22541/essoar.168839439.99576639/v1](https://essopenarchive.org/doi/full/10.22541/essoar.168839439.99576639/v1). *<small>(* Co-first authors, reflecting equal contributions to this work)</small>*
 
 ---
 
