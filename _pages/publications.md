@@ -24,7 +24,7 @@ classes: wide
 
 * **Campbell, E.C.**, Riser, S.C. Lagrangian reconstruction of snow accumulation and loss on Antarctic sea ice. In prep for *The Cryosphere*.
 
-* **Campbell, E.C.**\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. (2023). Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. *Earth and Space Science Open Archive* [preprint] (in revision at *Journal of Geoscience Education*). doi:[10.22541/essoar.168839439.99576639/v1](https://essopenarchive.org/doi/full/10.22541/essoar.168839439.99576639/v1). *<small>(* Co-first authors, reflecting equal contributions to this work)</small>*
+* **Campbell, E.C.**\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. (2024). Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. *Earth and Space Science Open Archive* [preprint] (in revision at *Journal of Geoscience Education*). doi:[10.22541/essoar.168839439.99576639/v2](https://essopenarchive.org/doi/full/10.22541/essoar.168839439.99576639/v2). *<small>(* Co-first authors, reflecting equal contributions to this work)</small>*
 
 * Granger, R., Smart, S.M., Foreman, A., Auderset, A., **Campbell, E.C.**, Marshall, T.A., Haug, G.H., Sigman, D.M., Mart&iacute;nez-Garc&iacute;a, A., Fawcett, S.E. (2023). Tracking Agulhas leakage in the South Atlantic using modern planktic foraminifera nitrogen isotopes. *Earth and Space Science Open Archive* [preprint] (in review at *Geochemistry, Geophysics, Geosystems*). doi:[10.22541/essoar.169832095.50405976/v1](https://doi.org/10.22541/essoar.169832095.50405976/v1).
 
