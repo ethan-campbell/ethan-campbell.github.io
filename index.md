@@ -18,7 +18,7 @@ The focus of my research is using observations of the ice-covered Southern Ocean
 
 * **August 2023**: I am proud to have received an Honorable Mention award (2nd place among early career researcher talks) at the SOOS Symposium in Hobart for my presentation on "Antarctic sea ice formation and melt rates estimated from under-ice Argo observations." I also gave a plenary talk on "Sailing towards a FAIR (Findable, Accessible, Interoperable, and Reusable) Southern Ocean Observing System: Challenges and opportunities." You can view slides from the plenary [here](https://drive.google.com/file/d/1_CDwI-qF09X2aAW4m-DACyvHacmdXtz1/view?usp=share_link).
 
-* **July 2023**: Our manuscript titled "Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting" is accessible as a preprint on the Earth and Space Science Open Archive (ESSOAr) [here](https://essopenarchive.org/doi/full/10.22541/essoar.168839439.99576639/v1).
+* **July 2023**: Our manuscript titled "Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting" is accessible as a preprint on the Earth and Space Science Open Archive (ESSOAr) [here](https://essopenarchive.org/doi/full/10.22541/essoar.168839439.99576639/v2).
 
 * **September 2022**: I presented a [poster](https://drive.google.com/file/d/1i8ZHOGYXqMWO0tGKttS80YHMbWj5oVN6/view?usp=sharing) on "Pushing Seattle towards net zero: Opportunities for local advocacy and engagement" at the UW Program on Climate Change's Summer Institute in Friday Harbor, WA. The topic of the workshop was "Pathways to net zero."
 
