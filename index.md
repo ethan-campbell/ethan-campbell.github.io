@@ -8,9 +8,9 @@ classes: wide
 
 ## I am a physical oceanographer studying the sea ice and ocean around Antarctica.
 
-I am currently a Ph.D. candidate at the [School of Oceanography](https://www.ocean.washington.edu) at University of Washington in Seattle, WA, advised by [Stephen Riser](https://environment.uw.edu/faculty/stephen-riser/). I was funded through a National Defense Science and Engineering Graduate (NDSEG) Fellowship from 2017-2021.
+I am currently a Ph.D. candidate at the [School of Oceanography](https://www.ocean.washington.edu) at University of Washington in Seattle, WA, advised by [Stephen Riser](https://environment.uw.edu/faculty/stephen-riser/).
 
-The focus of my research is using observations of the ice-covered Southern Ocean to develop a better understanding of sea ice processes and offshore polynyas around Antarctica, as well as their role in global climate.
+The focus of my research is using ocean measurements within the ice-covered Southern Ocean to develop a better understanding of processes involving sea ice and snow around Antarctica, as well as their role in global climate.
 
 ---
 
