@@ -43,9 +43,9 @@ Accessing the Southern Ocean by ship is often challenging, and so autonomous pla
 
 ---
 
-## Ongoing and future work
+## Future work
 
-The following are projects that I am starting to work on (or have just been thinking about!). Stay tuned, and [contact me](mailto:ethancc@uw.edu) if any of these sound interesting or if you are engaged in similar research. I would be excited to collaborate.
+The following are projects that I am starting to work on (or have just been thinking about!). [Contact me](mailto:ethancc@uw.edu) if any of these sound interesting or if you are engaged in similar research. I would be excited to collaborate.
 
 * Impact of storms on the coupled Antarctic ocean-ice-snow system
 * Changes in Southern Hemisphere subpolar gyre strength under anthropogenic forcing
