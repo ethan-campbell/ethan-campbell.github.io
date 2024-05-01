@@ -15,7 +15,7 @@ Accessing the Southern Ocean by ship is often challenging, and so autonomous pla
 
 ![Upper-ocean salinity in the seasonal ice zone from an Argo float](/assets/images/float_section_psal_5904183.jpg){:height="400px" width="1000px" style="border: 0.75px solid black"}
 
-**Southern Ocean sea ice thickness is an important climate variable due to its impact on freshwater fluxes, ocean-atmosphere heat exchange, and momentum transfer.** Yet monitoring its evolution from satellites has proven challenging, in part owing to a sparsity of in situ measurements for validation purposes. In this ongoing project, I estimate Antarctic sea ice formation and melt using local mixed-layer salinity budgets constructed along the drift trajectories of under-ice Argo profiling floats. This enables the creation of an observationally-grounded circumpolar climatology of Antarctic sea ice production and melt rates, which together represent the rate of change of ice thickness. Stay tuned!
+**Southern Ocean sea ice thickness is an important climate variable due to its impact on freshwater fluxes, ocean-atmosphere heat exchange, and momentum transfer.** Yet monitoring its evolution from satellites has proven challenging, in part owing to a sparsity of in situ measurements for validation purposes. In this ongoing project, I estimate Antarctic sea ice formation and melt using local mixed-layer salinity budgets constructed along the drift trajectories of under-ice Argo profiling floats. This enables the creation of an observationally-grounded circumpolar climatology of Antarctic sea ice production and melt rates, which together represent the rate of change of ice thickness.
 
 
 ## Constraining the accumulation and loss of snow on Antarctic sea ice
