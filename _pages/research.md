@@ -11,9 +11,9 @@ classes: wide
 ![Myself in the Riser Argo float lab at University of Washington (credit: Dennis Wise)](/assets/images/Riser_lab.jpg){:height="400px" width="1000px" style="border: 1px solid black"}
 
 
-The ice-covered Southern Ocean around Antarctica is a dynamic region that plays a critical role in global climate. It is characterized by substantial spatial and temporal variability in heat, salt, and biogeochemical fluxes. My current research focuses on several key processes within this region: sea ice growth and melt, snow accumulation on sea ice, offshore polynyas, and the transformation of deep waters. 
+**The ice-covered Southern Ocean around Antarctica is a dynamic region that plays a critical role in global climate.** It is characterized by substantial spatial and temporal variability in heat, salt, and biogeochemical fluxes. My current research focuses on several key processes within this region: sea ice growth and melt, snow accumulation on sea ice, offshore polynyas, and the transformation of deep waters. 
 
-Accessing the Southern Ocean by ship is often challenging, and so autonomous platforms have become increasingly important for collecting sustained observations within this region. These include under-ice hydrographic measurements from Argo profiling floats and instrumented seals, and my research takes advantage of these relatively new, year-round observational capabilities as well as remote sensing, atmospheric reanalysis, and numerical models.
+**Accessing the Southern Ocean by ship is often challenging, and so autonomous platforms have become increasingly important for collecting sustained observations within this region.** These include under-ice hydrographic measurements from Argo profiling floats and instrumented seals, and my research takes advantage of these relatively new, year-round observational capabilities as well as remote sensing, atmospheric reanalysis, and numerical models.
 
 
 ## Reconstructing Antarctic sea ice formation and melt rates from ocean salinity
