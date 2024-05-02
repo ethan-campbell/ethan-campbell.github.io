@@ -6,6 +6,11 @@ author_profile: true
 classes: wide
 ---
 
+---
+
+![Myself in the Riser Argo float lab at University of Washington (credit: Dennis Wise)](/assets/images/Riser_lab.jpg){:height="400px" width="1000px" style="border: 1px solid black"}
+
+
 The ice-covered Southern Ocean around Antarctica is a dynamic region that plays a critical role in global climate. It is characterized by substantial spatial and temporal variability in heat, salt, and biogeochemical fluxes. My current research focuses on several key processes within this region: sea ice growth and melt, snow accumulation on sea ice, offshore polynyas, and the transformation of deep waters. 
 
 Accessing the Southern Ocean by ship is often challenging, and so autonomous platforms have become increasingly important for collecting sustained observations within this region. These include under-ice hydrographic measurements from Argo profiling floats and instrumented seals, and my research takes advantage of these relatively new, year-round observational capabilities as well as remote sensing, atmospheric reanalysis, and numerical models.
@@ -45,7 +50,7 @@ Accessing the Southern Ocean by ship is often challenging, and so autonomous pla
 
 ![Depth profiles of nitrate and nitrite, AOU, and N isotopes along the SAMBA line at 34.5&deg;S](/assets/images/SAMBA_line_N_isotopes.jpg){:height="400px" width="1000px" style="border: 0.75px solid black"}
 
-**The South Atlantic is an important conduit for water masses of Southern Ocean, North Atlantic, and Indian Ocean origin.** Analysis of the stable isotopes of N and O within seawater nitrate can illuminate aspects of the local and remote nitrogen cycle and the broader ocean circulation in this region. As reported in my Princeton University senior thesis ([Campbell, 2016](/publications/)), I measured paired nitrate isotopes (&delta;15N and &delta;18O) from samples that I collected during a wintertime transect along 34.5&deg;S in the South Atlantic, which reveal signals of distant denitrification, nitrogen fixation, and remineralization of organic matter, as well as local nutrient consumption and resupply. These measurements, some of the first from the South Atlantic, have contributed to collaborative work by [Marconi et al. (2017)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GB005613) in *GBC* on Atlantic basin nitrogen fixation, [Marshall et al. (2023)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JC019413) in *JGR-Oceans* on nitrogen cycling within the Agulhas Current, and [Granger et al. (preprint)](https://doi.org/10.22541/essoar.169832095.50405976/v1) (in revision at *G-Cubed*) on Agulhas leakage signatures recorded in planktic foraminifera nitrogen isotopes.
+**The South Atlantic is an important conduit for water masses of Southern Ocean, North Atlantic, and Indian Ocean origin.** Analysis of the stable isotopes of N and O within seawater nitrate can illuminate aspects of the local and remote nitrogen cycle and the broader ocean circulation in this region. As reported in my Princeton University senior thesis ([Campbell, 2016](/publications/)), I measured paired nitrate isotopes (&delta;15N and &delta;18O) from samples that I collected during a wintertime transect along 34.5&deg;S, which reveal signals of distant denitrification, nitrogen fixation, and remineralization of organic matter, as well as local nutrient consumption and resupply. These measurements, some of the first from the South Atlantic, have contributed to collaborative work by [Marconi et al. (2017)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GB005613) in *GBC* on Atlantic basin nitrogen fixation, [Marshall et al. (2023)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JC019413) in *JGR-Oceans* on nitrogen cycling within the Agulhas Current, and [Granger et al. (preprint)](https://doi.org/10.22541/essoar.169832095.50405976/v1) (in revision at *G-Cubed*) on Agulhas leakage signatures recorded in planktic foraminifera.
 
 
 ---
@@ -54,7 +59,7 @@ Accessing the Southern Ocean by ship is often challenging, and so autonomous pla
 
 The following are projects that I am starting to work on (or have just been thinking about!). [Contact me](mailto:ethancc@uw.edu) if any of these sound interesting or if you are engaged in similar research. I would be excited to collaborate.
 
-* Impact of storms on the coupled Antarctic ocean-ice-snow system
+* The impact of storms on the coupled Antarctic ocean-ice-snow system
 * Changes in Southern Hemisphere subpolar gyre strength under anthropogenic forcing
 * Offshore pathways of Antarctic Bottom Water formation during glacial climates
 
