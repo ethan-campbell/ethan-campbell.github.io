@@ -8,6 +8,6 @@ classes: wide
 
 ---
 
-[Download CV in PDF format](https://www.ocean.washington.edu/files/ethan_campbell_cv_2024-04-30-20240501013855.pdf){: .btn .btn--primary }
+[Download CV in PDF format](https://www.ocean.washington.edu/files/ethan_campbell_cv_2024-05-02-20240502123257.pdf){: .btn .btn--primary }
 
-<iframe src="https://www.ocean.washington.edu/files/ethan_campbell_cv_2024-04-30-20240501013855.pdf" width="900" height="1000"></iframe>
+<iframe src="https://www.ocean.washington.edu/files/ethan_campbell_cv_2024-05-02-20240502123257.pdf" width="900" height="1000"></iframe>
