@@ -8,7 +8,7 @@ classes: wide
 
 ---
 
-![Myself in the Riser Argo float lab at University of Washington (credit: Dennis Wise)](/assets/images/Riser_lab.jpg){:height="400px" width="1000px" style="border: 1px solid black"}
+![Sailing through sea ice](/assets/images/Pancake_ice.jpg){:height="400px" width="1000px" style="border: 1px solid black"}
 
 
 **The ice-covered Southern Ocean around Antarctica is a dynamic region that plays a critical role in global climate.** It is characterized by substantial spatial and temporal variability in heat, salt, and biogeochemical fluxes. My current research focuses on several key processes within this region: sea ice growth and melt, snow accumulation on sea ice, offshore polynyas, and the transformation of deep waters. 

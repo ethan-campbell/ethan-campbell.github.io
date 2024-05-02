@@ -4,9 +4,10 @@ author_profile: true
 classes: wide
 ---
 
-![Sailing through sea ice](/assets/images/Pancake_ice.jpg){:height="400px" width="1000px" style="border: 1px solid black"}
+![Myself in the Riser Argo float lab at University of Washington (credit: Dennis Wise)](/assets/images/Riser_lab.jpg){:height="400px" width="1000px" style="border: 1px solid black"}
 
-## I am a physical oceanographer studying the sea ice and ocean around Antarctica.
+
+# I am a physical oceanographer studying the sea ice and ocean around Antarctica.
 
 I am currently a Ph.D. candidate at the [School of Oceanography](https://www.ocean.washington.edu) at University of Washington in Seattle, WA, advised by [Stephen Riser](https://environment.uw.edu/faculty/stephen-riser/).
 
