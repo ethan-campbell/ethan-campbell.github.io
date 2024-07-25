@@ -24,13 +24,13 @@ classes: wide
 
 * **Campbell, E.C.**, Riser, S.C. Lagrangian reconstruction of snow accumulation and loss on Antarctic sea ice. In prep for *The Cryosphere*.
 
-* **Campbell, E.C.**\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. (2024). Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. *Earth and Space Science Open Archive* [preprint] (in revision at *Journal of Geoscience Education*). doi:[10.22541/essoar.168839439.99576639/v2](https://essopenarchive.org/doi/full/10.22541/essoar.168839439.99576639/v2). *<small>(* Co-first authors, reflecting equal contributions to this work)</small>*
-
 * Granger, R., Smart, S.M., Foreman, A., Auderset, A., **Campbell, E.C.**, Marshall, T.A., Haug, G.H., Sigman, D.M., Mart&iacute;nez-Garc&iacute;a, A., Fawcett, S.E. (2023). Tracking Agulhas leakage in the South Atlantic using modern planktic foraminifera nitrogen isotopes. *Earth and Space Science Open Archive* [preprint] (in revision at *Geochemistry, Geophysics, Geosystems*). doi:[10.22541/essoar.169832095.50405976/v1](https://doi.org/10.22541/essoar.169832095.50405976/v1).
 
 ---
 
 ## Peer-reviewed
+
+* **Campbell, E.C.**\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. (2024). Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. *Journal of Geoscience Education*, in press. doi:[10.1080/10899995.2024.2384338](https://doi.org/10.1080/10899995.2024.2384338). [[Preprint PDF](https://essopenarchive.org/doi/full/10.22541/essoar.168839439.99576639/v3)] *<small>(* Co-first authors, reflecting equal contributions to this work)</small>*
 
 * Marshall, T.A., Sigman, D.M., Beal, L.M., Foreman, A., Mart&iacute;nez-Garc&iacute;a, A., Blain, S., **Campbell, E.C.**, Fripiat, F., Granger, R., Harris, E., Haug, G.H., Marconi, D., Oleynik, S., Rafter, P.A., Roman, R., Sinyanya, K., Smart, S.M., Fawcett, S.E. (2023). The Agulhas Current transports signals of local and remote Indian Ocean nitrogen cycling. *Journal of Geophysical Research&ndash;Oceans*, **128**(3), e2022JC019413. doi:[10.1029/2022JC019413](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JC019413).
 
