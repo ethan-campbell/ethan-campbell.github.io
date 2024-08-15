@@ -13,7 +13,7 @@ classes: wide
 
 I am currently a Ph.D. candidate at the [School of Oceanography](https://www.ocean.washington.edu) at University of Washington in Seattle, WA, advised by [Stephen Riser](https://environment.uw.edu/faculty/stephen-riser/).
 
-The focus of my research is using ocean measurements within the ice-covered Southern Ocean to develop a better understanding of processes involving sea ice and snow around Antarctica, as well as their role in global climate. For details on what I study, see [Research](/research/).
+The focus of [my research](/research/) is using ocean measurements within the ice-covered Southern Ocean to develop a better understanding of processes involving sea ice and snow around Antarctica, as well as their role in global climate.
 
 ---
 
