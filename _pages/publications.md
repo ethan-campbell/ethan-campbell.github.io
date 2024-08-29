@@ -18,7 +18,7 @@ classes: wide
 ---
 --->
 
-## In preparation / submitted
+## In preparation
 
 * **Campbell, E.C.**, Riser, S.C. Antarctic sea ice formation and melt rates estimated from under-ice Argo observations. In prep for *Journal of Geophysical Research&ndash;Oceans*.
 
