@@ -28,7 +28,7 @@ classes: wide
 
 ## Peer-reviewed
 
-* Granger, R., Smart, S.M., Foreman, A., Auderset, A., **Campbell, E.C.**, Marshall, T.A., Haug, G.H., Sigman, D.M., Mart&iacute;nez-Garc&iacute;a, A., Fawcett, S.E. (2024). Tracking Agulhas leakage in the South Atlantic using modern planktic foraminifera nitrogen isotopes. *Geochemistry, Geophysics, Geosystems*, in press. [[Preprint](https://doi.org/10.22541/au.172314977.71357148/v1)]
+* Granger, R., Smart, S.M., Foreman, A., Auderset, A., **Campbell, E.C.**, Marshall, T.A., Haug, G.H., Sigman, D.M., Mart&iacute;nez-Garc&iacute;a, A., Fawcett, S.E. (2024). Tracking Agulhas leakage in the South Atlantic using modern planktic foraminifera nitrogen isotopes. *Geochemistry, Geophysics, Geosystems*, in press. doi:[10.1029/2023GC011190](https://doi.org/10.1029/2023GC011190). [[Preprint](https://doi.org/10.22541/au.172314977.71357148/v1)]
 
 * **Campbell, E.C.**\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. (2024). Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. *Journal of Geoscience Education*, in press. doi:[10.1080/10899995.2024.2384338](https://doi.org/10.1080/10899995.2024.2384338). *<small>(* Co-first authors, reflecting equal contributions to this work)</small>*
 
