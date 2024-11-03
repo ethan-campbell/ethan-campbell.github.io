@@ -26,13 +26,17 @@ classes: wide
 
 ---
 
-## Peer-reviewed
+## Publications
 
-* Granger, R., Smart, S.M., Foreman, A., Auderset, A., **Campbell, E.C.**, Marshall, T.A., Haug, G.H., Sigman, D.M., Mart&iacute;nez-Garc&iacute;a, A., Fawcett, S.E. (2024). Tracking Agulhas leakage in the South Atlantic using modern planktic foraminifera nitrogen isotopes. *Geochemistry, Geophysics, Geosystems*, in press. doi:[10.1029/2023GC011190](https://doi.org/10.1029/2023GC011190). [[Preprint](https://doi.org/10.22541/au.172314977.71357148/v1)]
+* † Wilson, E.A., Dove, L.A., Gray, A.R., MacGilchrist, G., Purkey, S., Thompson, A.F., Youngs, M., Diggs, S., Balwada, D., **Campbell, E.C.**, Talley, L.D. (2024). Future priorities for observing the dynamics of the Southern Ocean. *Bulletin of the American Meteorological Society*, in press. doi:[10.1175/BAMS-D-24-0254.1](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-24-0254.1/BAMS-D-24-0254.1.xml).
+
+* Granger, R., Smart, S.M., Foreman, A., Auderset, A., **Campbell, E.C.**, Marshall, T.A., Haug, G.H., Sigman, D.M., Mart&iacute;nez-Garc&iacute;a, A., Fawcett, S.E. (2024). Tracking Agulhas leakage in the South Atlantic using modern planktic foraminifera nitrogen isotopes. *Geochemistry, Geophysics, Geosystems*, **25**(9), e2023GC011190. doi:[10.1029/2023GC011190](https://doi.org/10.1029/2023GC011190).
 
 * **Campbell, E.C.**\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. (2024). Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. *Journal of Geoscience Education*, in press. doi:[10.1080/10899995.2024.2384338](https://doi.org/10.1080/10899995.2024.2384338). *<small>(* Co-first authors, reflecting equal contributions to this work)</small>*
 
 * Marshall, T.A., Sigman, D.M., Beal, L.M., Foreman, A., Mart&iacute;nez-Garc&iacute;a, A., Blain, S., **Campbell, E.C.**, Fripiat, F., Granger, R., Harris, E., Haug, G.H., Marconi, D., Oleynik, S., Rafter, P.A., Roman, R., Sinyanya, K., Smart, S.M., Fawcett, S.E. (2023). The Agulhas Current transports signals of local and remote Indian Ocean nitrogen cycling. *Journal of Geophysical Research&ndash;Oceans*, **128**(3), e2022JC019413. doi:[10.1029/2022JC019413](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JC019413).
+
+* † Arndt, S., Janout, M.A., Biddle, L.C., **Campbell, E.C.**, Thomalla, S.J. (2022). The Weddell Sea and Dronning Maud Land (WS-DML) Regional Working Group Virtual Science Workshop, 14-16 June 2022. SOOS Report Series, #15. doi:[10.5281/zenodo.6931423](https://doi.org/10.5281/zenodo.6931423).
 
 <ul>
 <li style="margin-bottom: 3px;">von Berg, L., Prend, C.J., <b>Campbell, E.C.</b>, Mazloff, M.R., Talley, L.D., Gille, S.T. (2020). Weddell Sea phytoplankton blooms modulated by sea ice variability and polynya formation. <i>Geophysical Research Letters</i>, <b>47</b>(11), e2020GL087954. doi:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087954">10.1029/2020GL087954</a>.</li>
@@ -61,12 +65,8 @@ classes: wide
 
 * Marconi, D., Sigman, D.M., Casciotti K.L., **Campbell, E.C.**, Weigand, M.A., Fawcett, S.E., Knapp, A.N., Rafter, P.A., Ward, B.B., Haug, G.H. (2017). Tropical dominance of N<sub>2</sub> fixation in the North Atlantic Ocean. *Global Biogeochemical Cycles*, **31**(10), 1608-1623. doi:[10.1002/2016GB005613](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GB005613).
 
----
+* † **Campbell, E.C.** (2016). Where three oceans meet: Nitrate isotope measurements from the South Atlantic along 34.5&deg;S. Senior thesis, Department of Geosciences, Princeton University. [arks.princeton.edu/ark:/88435/dsp01j3860941p](http://arks.princeton.edu/ark:/88435/dsp01j3860941p). [[PDF](https://drive.google.com/uc?export=download&id=1SA94K1rdcYMCHauXKcHoVx-IDUE_FkxI)]
 
-## Non-peer-reviewed
-
-* Arndt, S., Janout, M.A., Biddle, L.C., **Campbell, E.C.**, Thomalla, S.J. (2022). The Weddell Sea and Dronning Maud Land (WS-DML) Regional Working Group Virtual Science Workshop, 14-16 June 2022. SOOS Report Series, #15. doi:[10.5281/zenodo.6931423](https://doi.org/10.5281/zenodo.6931423).
-
-* **Campbell, E.C.** (2016). Where three oceans meet: Nitrate isotope measurements from the South Atlantic along 34.5&deg;S. Senior thesis, Department of Geosciences, Princeton University. [arks.princeton.edu/ark:/88435/dsp01j3860941p](http://arks.princeton.edu/ark:/88435/dsp01j3860941p). [[PDF](https://drive.google.com/uc?export=download&id=1SA94K1rdcYMCHauXKcHoVx-IDUE_FkxI)]
+† Indicates publication was not peer-reviewed
 
 ---
