@@ -26,7 +26,7 @@ classes: wide
 
 ---
 
-## Publications
+## Published
 
 * † Wilson, E.A., Dove, L.A., Gray, A.R., MacGilchrist, G., Purkey, S., Thompson, A.F., Youngs, M., Diggs, S., Balwada, D., **Campbell, E.C.**, Talley, L.D. (2024). Future priorities for observing the dynamics of the Southern Ocean. *Bulletin of the American Meteorological Society*, in press. doi:[10.1175/BAMS-D-24-0254.1](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-24-0254.1/BAMS-D-24-0254.1.xml).
 
@@ -67,6 +67,6 @@ classes: wide
 
 * † **Campbell, E.C.** (2016). Where three oceans meet: Nitrate isotope measurements from the South Atlantic along 34.5&deg;S. Senior thesis, Department of Geosciences, Princeton University. [arks.princeton.edu/ark:/88435/dsp01j3860941p](http://arks.princeton.edu/ark:/88435/dsp01j3860941p). [[PDF](https://drive.google.com/uc?export=download&id=1SA94K1rdcYMCHauXKcHoVx-IDUE_FkxI)]
 
-† Indicates publication was not peer-reviewed
+† *Indicates publication was not peer-reviewed*
 
 ---
