@@ -18,9 +18,9 @@ classes: wide
 
 ---
 
-If you are reading this, please know that I appreciate you even if you can't attend! If you can make it, no need to RSVP.
+If you are reading this, please know that I appreciate you even if you can't attend! If you can make it, no need to RSVP (I will not be checking my email much until after Wednesday, in any case).
 
-Feel free to text at 224-388-0301 or email me with any questions. If you contact me on Wednesday, I might not see your message, but my partner Pin-An will be monitoring her texts and can help. Her number is 734-623-3830.
+Feel free to text me at 224-388-0301 with any questions. If you contact me on Wednesday, I might not see your message, but my partner Pin-An will be monitoring her texts and can help. Her number is 734-623-3830.
 
 
 ## How to get there
@@ -38,12 +38,12 @@ Ocean Sciences Building (OCN) is located on the south waterfront of UW's campus 
 
 **Seating:** The conference room fills up quickly, so arriving 5 minutes early will ensure a seat. It's totally okay to stand in the back.
 
-**Question time:** The talk will be followed by around 10 minutes of audience questions about the science. You are welcome to raise your hand and ask one! There's no such thing as a bad question—and you might just save me from the dreaded unanswerable question from certain professors in the front row (they always sit in the front row).
+**Question time:** The talk will be followed by around 10 minutes of audience questions about the science. You are welcome to raise your hand and ask one! There's no such thing as a bad question—and you might just save me from the dreaded unanswerable question that someone else was about to ask.
 
 **Afterwards:** After my talk, the audience will leave the room. My committee members and I will move into a closed-door exam session, which can last from anywhere between 30 minutes to 1.5 hours (but usually about 1 hour). I might have a few seconds to say hello to you after my talk, but unfortunately not much more. I will completely understand if you have to leave at that point!
 
 If you are staying for the celebration, feel free to hang out on the couches and chairs outside the room. There is a similar area on the 3rd floor. UW has a guest wifi network available if you want to work (but my parents will be there and may chat you up—consider yourself warned!). You can also walk across the street to the excellent bakery and cafe, [Saint Bread](https://www.saintbread.com), which has heated outdoor seating. Be aware that the building doors lock at 5p, though it shouldn't hard to get back in with folks starting to leave the holiday party around that time (see below).
 
-**(Hopeful) celebration:** If my defense is successful, I will emerge from the room a doctor around 5:30p and there will be a small, casual celebration by the couches on the 4th floor. There will probably be light refreshments (you are welcome to bring anything, but don't feel obligated!) and a ceremonial champagne pop, and I'll sign a wall where the cork hits. I find these gatherings are always a bit awkward, but maybe that's just because we're scientists and the other grad students are dreading our own defenses. We embrace it!
+**(Hopeful) celebration:** If my defense is successful, I will emerge from the room a doctor around 5:30p and there will be a small, casual celebration by the couches on the 4th floor. There will probably be light refreshments (you are welcome to bring anything, but don't feel obligated!) and a ceremonial champagne pop, and I'll sign a wall where the cork hits.
 
 **Department holiday party:** Our department's annual holiday party is conveniently scheduled for 4-6p on the 1st floor of the building in the High Bay (enter through the swinging doors by the elevators). I have confirmed that you – as my guest – are welcome to grab a plate of the delicious catered food (if anyone asks, which they won't, tell them Michelle said it was okay). There should be a lot of food, so don't feel bad. You could do this while waiting for the celebration.
