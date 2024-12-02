@@ -13,8 +13,10 @@ classes: wide
 | *Don't worry, you'll be safe at my defense. Just don't ask any hard questions at the end. Credit: [XKCD](https://xkcd.com/1403/).* |
 
 - **What:** My Ph.D. defense on Antarctic sea ice, snow, and ocean physics
-- **When:** Wednesday, December 4 from 3:30-4:30p PT, which will be followed by a closed-door exam from approximately 4:30-5:30p (feel free to hang out while this happens—see below), then a casual celebration with refreshments around 5:30-6p (but potentially a bit earlier or later)
-- **Where:** On Zoom (link [here](https://washington.zoom.us/j/94484736872)), or in person in [Ocean Sciences Building](https://www.washington.edu/maps/#!/ocn) (OCN) 425 at the University of Washington
+- **When:** Wednesday, December 4 from 3:30-4:30p PT
+- *(Optional!) celebration:* My talk will be followed by a closed-door exam from approximately 4:30-5:30p (feel free to hang out while this happens if you're staying—see below), then a casual celebration with refreshments around 5:30-6p (but potentially a bit earlier or later)
+- **Where (virtual):** Zoom (link [here](https://washington.zoom.us/j/94484736872))
+- **Where (in person):** [Ocean Sciences Building](https://www.washington.edu/maps/#!/ocn) (OCN) 425 at the University of Washington
 
 ---
 
