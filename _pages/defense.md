@@ -20,7 +20,7 @@ classes: wide
 
 ---
 
-If you are reading this, please know that I appreciate you even if you can't attend! If you can make it, no need to RSVP (I will not be checking my email much until after Wednesday, in any case).
+If you are reading this, please know that I appreciate you even if you can't attend! If you can make it, no need to RSVP. I will not be checking my email much until after Wednesday, in any case.
 
 Feel free to text me at 224-388-0301 with any questions. If you contact me on Wednesday, I might not see your message, but my partner Pin-An will be monitoring her texts and can help. Her number is 734-623-3830.
 
