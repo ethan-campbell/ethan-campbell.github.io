@@ -4,26 +4,33 @@ author_profile: true
 classes: wide
 ---
 
-![Myself in the Riser Argo float lab at University of Washington (credit: Dennis Wise)](/assets/images/Riser_lab.jpg){:height="400px" width="1000px" style="border: 1px solid black"}
+![Myself in the Riser Argo float lab at the University of Washington (credit: Dennis Wise)](/assets/images/Riser_lab.jpg){:height="400px" width="1000px" style="border: 1px solid black"}
 
 
-# I am a physical oceanographer studying the sea ice and ocean around Antarctica.
+# I am an oceanographer studying Antarctic ocean, sea ice, and snow physics.
 
 <hr style="height:0.5px; visibility:hidden;" />
 
-I am currently a Ph.D. candidate at the [School of Oceanography](https://www.ocean.washington.edu) at University of Washington in Seattle, WA, advised by [Stephen Riser](https://environment.uw.edu/faculty/stephen-riser/).
+I am currently an NSF Office of Polar Programs Postdoctoral Research Fellow in the [Polar Science Center](https://psc.apl.uw.edu) at the University of Washington's Applied Physics Laboratory in Seattle, WA, working with [Melinda Webster](https://psc.apl.uw.edu/people/investigators/melinda-webster/) and [Edward Blanchard-Wrigglesworth](https://environment.uw.edu/faculty/edward-blanchard-wrigglesworth/). I received my Ph.D. in physical oceanography from the University of Washington's School of Oceanography.
 
-The focus of [my research](/research/) is using ocean measurements within the ice-covered Southern Ocean to develop a better understanding of processes involving sea ice and snow around Antarctica, as well as their role in global climate.
+[My research](/research/) uses autonomous ocean measurements and modeling to develop a better understanding of processes involving sea ice and snow around Antarctica. The focus of my postdoctoral work is how storms and snowfall affect heat and freshwater fluxes in the ice-covered Southern Ocean and the future trajectory of Antarctic sea ice.
 
 ---
 
 ## Recent news
 
-* **August 2024**: Our [paper](https://doi.org/10.1080/10899995.2024.2384338) titled "Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting" is now published in *Journal of Geoscience Education*. In this study, we make a case for the importance of project-based instruction and an accessible classroom environment focused on active learning when teaching introductory scientific programming. We hope this paper and our [course resources](https://ethan-campbell.github.io/OCEAN_215/) are useful for those teaching or developing similar classes. Let us know what you think!
+* **January 2025**: I am excited to be joining the University of Washington's [Applied Physics Laboratory](https://apl.uw.edu) as a postdoctoral researcher, supported by fellowships from the [National Science Foundation's Office of Polar Programs](https://www.nsf.gov/geo/opp/postdoctoral-awardees) (2025--2026) and the [Washington Research Foundation](https://www.wrfseattle.org/news/washington-research-foundation-awards-12-three-year-postdoctoral-fellowships/) (starting in October 2025).
+
+* **December 2024**: I defended my dissertation, titled "Constraining Antarctic polynya formation and sea ice and snow evolution using autonomous observations and modeling." Thank you to all those who supported me throughout graduate school---especially my Ph.D. advisor, Prof. [Stephen Riser](https://environment.uw.edu/faculty/stephen-riser/).
+
+* **August 2024**: Our [paper](https://doi.org/10.1080/10899995.2024.2384338) titled "Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting" is now published in *Journal of Geoscience Education*. In this mixed-methods study, co-led with [Katy Christensen](https://www.colorado.edu/instaar/katy-christensen), we make a case for the importance of project-based instruction and an accessible classroom environment focused on active learning. We hope the paper and our [class resources](https://ethan-campbell.github.io/OCEAN_215/) are useful for those teaching or developing introductory scientific programming courses. Our recorded lessons and other materials are all available for reuse.
 
 * **August 2023**: I am proud to have received an Honorable Mention award (2nd place among early career researcher talks) at the SOOS Symposium in Hobart for my presentation on "Antarctic sea ice formation and melt rates estimated from under-ice Argo observations." I also gave a plenary talk on "Sailing towards a FAIR (Findable, Accessible, Interoperable, and Reusable) Southern Ocean Observing System: Challenges and opportunities." You can view slides from the plenary [here](https://drive.google.com/file/d/1_CDwI-qF09X2aAW4m-DACyvHacmdXtz1/view?usp=share_link).
 
 * **September 2022**: I presented a [poster](https://drive.google.com/file/d/1i8ZHOGYXqMWO0tGKttS80YHMbWj5oVN6/view?usp=sharing) on "Pushing Seattle towards net zero: Opportunities for local advocacy and engagement" at the UW Program on Climate Change's Summer Institute in Friday Harbor, WA. The topic of the workshop was "Pathways to net zero."
+
+
+<!-- Hidden below:
 
 * **February 2022**: At the AGU Fall Meeting in December, Katy Christensen and I virtually presented a retrospective [study](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/998855) of our redesign of OCEAN 215, our department's introductory Python course (see our [poster](https://drive.google.com/file/d/1BVnXeqSyAi4VCX5e1NwL0gk_QMHr6bHo/view?usp=sharing) here). We just learned that we received an [Outstanding Student Presentation Award](https://connect.agu.org/education/honors/educationsectionospa)!
 
@@ -47,6 +54,7 @@ The focus of [my research](/research/) is using ocean measurements within the ic
 
 * **January 2019**: Throughout the next year, I will be presenting [live shows](https://pacificsciencecenter.org/visit/planetarium/) on polar oceanography in the Willard Smith Planetarium at the Pacific Science Center in Seattle. This opportunity is thanks to PacSci's Science Communication Fellowship.
 
+-->
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y4L523YJ0J"></script>
