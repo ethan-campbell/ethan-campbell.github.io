@@ -28,6 +28,8 @@ classes: wide
 
 ## Published
 
+\* **Campbell, E.C.** (2025). Constraining Antarctic polynya formation and sea ice and snow evolution using autonomous observations and modeling [Dissertation]. School of Oceanography, University of Washington. 31768131, 1&ndash;232. [[ProQuest](https://www.proquest.com/docview/3193487908/abstract/F5C6EEB19E034450PQ/1)]
+
 \* Wilson, E.A., Dove, L.A., Gray, A.R., MacGilchrist, G., Purkey, S., Thompson, A.F., Youngs, M., Diggs, S., Balwada, D., **Campbell, E.C.**, Talley, L.D. (2024). Future priorities for observing the dynamics of the Southern Ocean. *Bulletin of the American Meteorological Society*, **105**(12), E2316&ndash;E2323. doi:[10.1175/BAMS-D-24-0254.1](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-24-0254.1/BAMS-D-24-0254.1.xml).
 
 Granger, R., Smart, S.M., Foreman, A., Auderset, A., **Campbell, E.C.**, Marshall, T.A., Haug, G.H., Sigman, D.M., Mart&iacute;nez-Garc&iacute;a, A., Fawcett, S.E. (2024). Tracking Agulhas leakage in the South Atlantic using modern planktic foraminifera nitrogen isotopes. *Geochemistry, Geophysics, Geosystems*, **25**(9), e2023GC011190. doi:[10.1029/2023GC011190](https://doi.org/10.1029/2023GC011190).
@@ -69,7 +71,7 @@ Swart, S., **Campbell, E.C.**, Heuz&eacute;, C.H., Johnson, K., Lieser, J.L., Ma
 
 Marconi, D., Sigman, D.M., Casciotti K.L., **Campbell, E.C.**, Weigand, M.A., Fawcett, S.E., Knapp, A.N., Rafter, P.A., Ward, B.B., Haug, G.H. (2017). Tropical dominance of N<sub>2</sub> fixation in the North Atlantic Ocean. *Global Biogeochemical Cycles*, **31**(10), 1608&ndash;1623. doi:[10.1002/2016GB005613](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GB005613).
 
-\* **Campbell, E.C.** (2016). Where three oceans meet: Nitrate isotope measurements from the South Atlantic along 34.5&deg;S. Senior thesis, Department of Geosciences, Princeton University. [arks.princeton.edu/ark:/88435/dsp01j3860941p](http://arks.princeton.edu/ark:/88435/dsp01j3860941p). [[PDF](https://drive.google.com/uc?export=download&id=1SA94K1rdcYMCHauXKcHoVx-IDUE_FkxI)]
+\* **Campbell, E.C.** (2016). Where three oceans meet: Nitrate isotope measurements from the South Atlantic along 34.5&deg;S [Undergraduate senior thesis]. Department of Geosciences, Princeton University. 1&ndash;59. [arks.princeton.edu/ark:/88435/dsp01j3860941p](http://arks.princeton.edu/ark:/88435/dsp01j3860941p). [[PDF](https://drive.google.com/uc?export=download&id=1SA94K1rdcYMCHauXKcHoVx-IDUE_FkxI)]
 
 <small>\* *Indicates publication was not peer-reviewed*</small>
 
