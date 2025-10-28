@@ -20,11 +20,16 @@ classes: wide
 
 ## In preparation
 
-**Campbell, E.C.**, Riser, S.C. Antarctic sea ice formation and melt rates estimated from ocean salinity observations. In prep for *Journal of Geophysical Research&ndash;Oceans*.
+**Campbell, E.C.**, Riser, S.C., Webster, M.A. Lagrangian reconstruction of snow accumulation and loss on Antarctic sea ice. In prep for *The Cryosphere*.
 
-**Campbell, E.C.**, Riser, S.C. Lagrangian reconstruction of snow accumulation and loss on Antarctic sea ice. In prep for *The Cryosphere*.
+<!-- Wilson, E.A., Arlen, L., **Campbell, E.C.** Recent extremes in Antarctic sea ice extent modulated by ocean heat ventilation. In prep. -->
 
 Ryu, Y., Marconi, D., Fripiat, F., Smart, S.M., **Campbell, E.C.**, Fawcett, S.E., Mart&iacute;nez-Garc&iacute;a, A., Haug, G.H., Sigman, D.M. Nitrogen fixation rates in the Atlantic Ocean estimated with total nitrogen isotopes. In prep for *Global Biogeochemical Cycles*.
+
+**Campbell, E.C.**, Riser, S.C. Antarctic sea ice formation and melt rates estimated from ocean salinity observations. In prep for *Journal of Geophysical Research&ndash;Oceans*.
+
+<!-- Ha, R.Y., **Campbell, E.C.** Impacts of recent Antarctic sea ice loss on Southern Ocean phytoplankton blooms. In prep. -->
+
 
 ---
 

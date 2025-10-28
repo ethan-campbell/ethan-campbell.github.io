@@ -11,7 +11,7 @@ classes: wide
 
 <hr style="height:0.5px; visibility:hidden;" />
 
-I am currently an NSF Office of Polar Programs Postdoctoral Research Fellow in the [Polar Science Center](https://psc.apl.uw.edu) at the University of Washington's Applied Physics Laboratory in Seattle, WA, working with [Melinda Webster](https://psc.apl.uw.edu/people/investigators/melinda-webster/) and [Edward Blanchard-Wrigglesworth](https://environment.uw.edu/faculty/edward-blanchard-wrigglesworth/). I received my Ph.D. in physical oceanography from the University of Washington's School of Oceanography.
+I am currently an NSF Office of Polar Programs Postdoctoral Research Fellow and Washington Research Foundation Postdoctoral Fellow in the [Polar Science Center](https://psc.apl.uw.edu) at the University of Washington's Applied Physics Laboratory in Seattle, WA, working with [Melinda Webster](https://psc.apl.uw.edu/people/investigators/melinda-webster/) and [Edward Blanchard-Wrigglesworth](https://environment.uw.edu/faculty/edward-blanchard-wrigglesworth/). I received my Ph.D. in physical oceanography from the University of Washington's School of Oceanography.
 
 [My research](/research/) uses autonomous ocean measurements and modeling to develop a better understanding of processes involving sea ice and snow around Antarctica. The focus of my postdoctoral work is how storms and snowfall affect heat and freshwater fluxes in the ice-covered Southern Ocean as well as the future trajectory of Antarctic sea ice.
 
@@ -19,7 +19,7 @@ I am currently an NSF Office of Polar Programs Postdoctoral Research Fellow in t
 
 ## Recent news
 
-* **January 2025**: I am excited to be joining the University of Washington's [Applied Physics Laboratory](https://apl.uw.edu) as a postdoctoral researcher, supported by fellowships from the [National Science Foundation's Office of Polar Programs](https://www.nsf.gov/geo/opp/postdoctoral-awardees) (2025--2026) and the [Washington Research Foundation](https://www.wrfseattle.org/news/washington-research-foundation-awards-12-three-year-postdoctoral-fellowships/) (starting in October 2025).
+* **January 2025**: I am excited to be joining the University of Washington's [Applied Physics Laboratory](https://apl.uw.edu) as a postdoctoral researcher, supported by fellowships from the [National Science Foundation's Office of Polar Programs](https://www.nsf.gov/geo/opp/postdoctoral-awardees) (Jan. 2025--Dec. 2026) and the [Washington Research Foundation](https://www.wrfseattle.org/news/washington-research-foundation-awards-12-three-year-postdoctoral-fellowships/) (Oct. 2025--Sep. 2028).
 
 * **December 2024**: I defended my [dissertation](https://www.proquest.com/docview/3193487908/abstract/F5C6EEB19E034450PQ/1), titled "Constraining Antarctic polynya formation and sea ice and snow evolution using autonomous observations and modeling." Thank you to all those who supported me throughout graduate school---especially my Ph.D. advisor, Prof. [Stephen Riser](https://environment.uw.edu/faculty/stephen-riser/).
 
