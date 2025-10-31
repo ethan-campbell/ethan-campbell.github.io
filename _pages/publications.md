@@ -18,11 +18,11 @@ classes: wide
 ---
 --->
 
-## In preparation
+## In review / in prep
+
+Wilson, E.A., Arlen, L., **Campbell, E.C.** Recent extremes in Antarctic sea ice extent modulated by ocean heat ventilation. Submitted.
 
 **Campbell, E.C.**, Riser, S.C., Webster, M.A. Lagrangian reconstruction of snow accumulation and loss on Antarctic sea ice. In prep for *The Cryosphere*.
-
-<!-- Wilson, E.A., Arlen, L., **Campbell, E.C.** Recent extremes in Antarctic sea ice extent modulated by ocean heat ventilation. In prep. -->
 
 Ryu, Y., Marconi, D., Fripiat, F., Smart, S.M., **Campbell, E.C.**, Fawcett, S.E., Mart&iacute;nez-Garc&iacute;a, A., Haug, G.H., Sigman, D.M. Nitrogen fixation rates in the Atlantic Ocean estimated with total nitrogen isotopes. In prep for *Global Biogeochemical Cycles*.
 
