@@ -20,7 +20,7 @@ classes: wide
 
 ## Manuscripts in review / in prep
 
-Wilson, E.A., Arlen, L., **Campbell, E.C.** Recent extremes in Antarctic sea ice extent modulated by ocean heat ventilation. Under review.
+Wilson, E.A., Arlen, L., **Campbell, E.C.** Recent extremes in Antarctic sea ice extent modulated by ocean heat ventilation. Submitted; in revision.
 
 **Campbell, E.C.**, Riser, S.C., Webster, M.A. Lagrangian reconstruction of snow accumulation and loss on Antarctic sea ice. In prep for *The Cryosphere*.
 
