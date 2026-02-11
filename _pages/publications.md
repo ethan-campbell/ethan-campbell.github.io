@@ -26,7 +26,7 @@ Wilson, E.A., Arlen, L., **Campbell, E.C.** Recent extremes in Antarctic sea ice
 
 Ryu, Y., Marconi, D., Fripiat, F., Smart, S.M., **Campbell, E.C.**, Fawcett, S.E., Mart&iacute;nez-Garc&iacute;a, A., Haug, G.H., Sigman, D.M. Nitrogen fixation rates in the Atlantic Ocean estimated with total nitrogen isotopes. In prep for *Global Biogeochemical Cycles*.
 
-**Campbell, E.C.**, Riser, S.C. Antarctic sea ice formation and melt rates estimated from ocean salinity observations. In prep for *Journal of Geophysical Research&ndash;Oceans*.
+**Campbell, E.C.**, Riser, S.C. Antarctic sea ice formation and melt rates estimated from ocean salinity observations. In prep for *Journal of Geophysical Research: Oceans*.
 
 <!-- Ha, R.Y., **Campbell, E.C.** Impacts of recent Antarctic sea ice loss on Southern Ocean phytoplankton blooms. In prep. -->
 
@@ -51,7 +51,7 @@ Granger, R., Smart, S.M., Foreman, A., Auderset, A., **Campbell, E.C.**, Marshal
 </ul>
 
 
-Marshall, T.A., Sigman, D.M., Beal, L.M., Foreman, A., Mart&iacute;nez-Garc&iacute;a, A., Blain, S., **Campbell, E.C.**, Fripiat, F., Granger, R., Harris, E., Haug, G.H., Marconi, D., Oleynik, S., Rafter, P.A., Roman, R., Sinyanya, K., Smart, S.M., Fawcett, S.E. (2023). The Agulhas Current transports signals of local and remote Indian Ocean nitrogen cycling. *Journal of Geophysical Research&ndash;Oceans*, **128**(3), e2022JC019413. doi:[10.1029/2022JC019413](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JC019413).
+Marshall, T.A., Sigman, D.M., Beal, L.M., Foreman, A., Mart&iacute;nez-Garc&iacute;a, A., Blain, S., **Campbell, E.C.**, Fripiat, F., Granger, R., Harris, E., Haug, G.H., Marconi, D., Oleynik, S., Rafter, P.A., Roman, R., Sinyanya, K., Smart, S.M., Fawcett, S.E. (2023). The Agulhas Current transports signals of local and remote Indian Ocean nitrogen cycling. *Journal of Geophysical Research: Oceans*, **128**(3), e2022JC019413. doi:[10.1029/2022JC019413](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JC019413).
 
 \* Arndt, S., Janout, M.A., Biddle, L.C., **Campbell, E.C.**, Thomalla, S.J. (2022). The Weddell Sea and Dronning Maud Land (WS-DML) Regional Working Group Virtual Science Workshop, 14-16 June 2022. SOOS Report Series, #15. doi:[10.5281/zenodo.6931423](https://doi.org/10.5281/zenodo.6931423).
 
