@@ -20,8 +20,6 @@ classes: wide
 
 ## Manuscripts submitted / in prep
 
-Wilson, E.A., Arlen, L., **Campbell, E.C.** Recent extremes in Antarctic sea ice extent modulated by ocean heat ventilation. In press at *Proceedings of the National Academy of Sciences (PNAS)*.
-
 **Campbell, E.C.**, Riser, S.C., Webster, M.A. Lagrangian reconstruction of snow accumulation and loss on Antarctic sea ice. In prep for *The Cryosphere*.
 
 Ryu, Y., Marconi, D., Fripiat, F., Smart, S.M., **Campbell, E.C.**, Fawcett, S.E., Mart&iacute;nez-Garc&iacute;a, A., Haug, G.H., Sigman, D.M. Nitrogen fixation rates in the Atlantic Ocean estimated with total nitrogen isotopes. In prep for *Global Biogeochemical Cycles*.
@@ -34,6 +32,8 @@ Ryu, Y., Marconi, D., Fripiat, F., Smart, S.M., **Campbell, E.C.**, Fawcett, S.E
 ---
 
 ## Published
+
+Wilson, E.A., Arlen, L., **Campbell, E.C.** (2026). Recent extremes in Antarctic sea ice extent modulated by ocean heat ventilation. *Proceedings of the National Academy of Sciences (PNAS)*, **123**(14), e2530832123. doi:[10.1073/pnas.2530832123](https://www.pnas.org/doi/10.1073/pnas.2530832123).
 
 \* **Campbell, E.C.** (2025). Constraining Antarctic polynya formation and sea ice and snow evolution using autonomous observations and modeling [Dissertation]. School of Oceanography, University of Washington. 31768131, 1&ndash;232. [[ProQuest](https://www.proquest.com/docview/3193487908/abstract/F5C6EEB19E034450PQ/1)]
 
