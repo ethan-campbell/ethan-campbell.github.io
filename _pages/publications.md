@@ -33,6 +33,14 @@ Ryu, Y., Marconi, D., Fripiat, F., Smart, S.M., **Campbell, E.C.**, Fawcett, S.E
 
 ## Published
 
+<li style="list-style: none; margin-bottom: 3px;">Wilson, E.A., Arlen, L., <b>Campbell, E.C.</b>. (2026). Recent extremes in Antarctic sea ice extent modulated by ocean heat ventilation. <i>Proceedings of the National Academy of Sciences (PNAS)</i>, <b>123</b>(14), e2530832123. doi:<a href="https://www.pnas.org/doi/10.1073/pnas.2530832123">10.1073/pnas.2530832123</a>.</li>
+<ul style="list-style: none; margin-left:0px; margin-top:1px;">
+<small>
+<li style="margin-bottom: 0px;">&#8674; Press release: <a href="https://sustainability.stanford.edu/news/study-explains-antarctic-sea-ice-growth-and-sudden-decline">Stanford University</a></li>
+<li style="margin-bottom: 0px;">&#8674; Media coverage: <a href="https://www.newscientist.com/article/2520281-warmer-ocean-is-driving-the-antarctic-sea-ice-regime-shift/">New Scientist</a>, <a href="https://phys.org/news/2026-03-subsurface-triggered-antarctica-sudden-sea.html">Phys.org</a></li>
+</small>
+</ul>
+
 Wilson, E.A., Arlen, L., **Campbell, E.C.** (2026). Recent extremes in Antarctic sea ice extent modulated by ocean heat ventilation. *Proceedings of the National Academy of Sciences (PNAS)*, **123**(14), e2530832123. doi:[10.1073/pnas.2530832123](https://www.pnas.org/doi/10.1073/pnas.2530832123).
 
 \* **Campbell, E.C.** (2025). Constraining Antarctic polynya formation and sea ice and snow evolution using autonomous observations and modeling [Dissertation]. School of Oceanography, University of Washington. 31768131, 1&ndash;232. [[ProQuest](https://www.proquest.com/docview/3193487908/abstract/F5C6EEB19E034450PQ/1)]
@@ -59,7 +67,7 @@ Marshall, T.A., Sigman, D.M., Beal, L.M., Foreman, A., Mart&iacute;nez-Garc&iacu
 <ul style="list-style: none; margin-left:0px; margin-top:1px;">
 <small>
 <li style="margin-bottom: 0px;">&#8674; Supplementary code is available at <a href="https://github.com/ethan-campbell/Weddell_phyto_paper">GitHub</a></li>
-<li style="margin-bottom: 0px;">&#8674; Press release: <a href="https://www.princeton.edu/news/2020/06/22/lauren-von-berg-class-2020-publishes-research-internship-studying-antarctic-sea-ice">Princeton</a></li>
+<li style="margin-bottom: 0px;">&#8674; Press release: <a href="https://www.princeton.edu/news/2020/06/22/lauren-von-berg-class-2020-publishes-research-internship-studying-antarctic-sea-ice">Princeton University</a></li>
 </small>
 </ul>
 
@@ -67,7 +75,7 @@ Marshall, T.A., Sigman, D.M., Beal, L.M., Foreman, A., Mart&iacute;nez-Garc&iacu
 <ul style="list-style: none; margin-left:0px; margin-top:1px;">
 <small>
 <li style="margin-bottom: 0px;">&#8674; Code is available at <a href="https://github.com/ethan-campbell/Weddell_polynya_paper">GitHub</a> and archived at <a href="https://doi.org/10.5281/zenodo.3259013">Zenodo</a></li>
-<li style="margin-bottom: 0px;">&#8674; Press releases: <a href="http://www.washington.edu/news/2019/06/10/mysterious-holes-in-antarctic-sea-ice-explained-by-years-of-robotic-data/">UW</a>, <a href="https://scripps.ucsd.edu/news/mysterious-holes-antarctic-sea-ice-explained-years-robotic-data">SIO</a></li>
+<li style="margin-bottom: 0px;">&#8674; Press releases: <a href="http://www.washington.edu/news/2019/06/10/mysterious-holes-in-antarctic-sea-ice-explained-by-years-of-robotic-data/">University of Washington</a>, <a href="https://scripps.ucsd.edu/news/mysterious-holes-antarctic-sea-ice-explained-years-robotic-data">Scripps Institution of Oceanography</a></li>
 <li style="margin-bottom: 0px;">&#8674; Media coverage: <a href="https://www.scientificamerican.com/article/storms-salty-water-caused-mystery-hole-in-antarctic-sea-ice/">Scientific American</a>, <a href="https://earther.gizmodo.com/seals-with-sensors-help-solve-the-mystery-of-antarctica-1835373280">Earther</a>, <a href="https://anchor.fm/climate-scientists/episodes/Ethan-Campbell-e52ogj">Climate Scientists</a> (podcast episode), <a href="https://www.thenakedscientists.com/podcasts/short/cracking-secret-antarctic-ice-holes">The Naked Scientists</a> (radio show), <a href="https://www.atlasobscura.com/articles/holes-in-antarctic-ice">Atlas Obscura</a>, <a href="https://www.popsci.com/mysterious-holes-antarctica-sea-ice-polynyas">Popular Science</a>, <a href="https://www.cnet.com/news/mystery-of-giant-antarctic-ice-holes-solved-by-robots-tricked-out-seals/">CNET</a>, <a href="https://mashable.com/article/antarctica-holes-ice-polynya-explained/">Mashable</a>, <a href="https://www.cnn.com/2019/06/11/us/elephant-seal-antarctic-ice-hole-polynya-trnd/index.html">CNN</a>, <a href="https://www.insidescience.org/news/new-study-explains-how-big-holes-form-antarctic-ice-despite-cold">InsideScience</a>, <a href="https://www.livescience.com/65693-mysterious-antarctic-ice-holes-explained.html">LiveScience</a>, <a href="https://oceanbites.org/open-ocean-polynyas-how-these-holes-in-the-ice-mysteriously-appear/">OceanBites</a></li>
 </small>
 </ul>
