@@ -19,7 +19,7 @@ I am currently an NSF Office of Polar Programs Postdoctoral Research Fellow and 
 
 ## Recent news
 
-* **March 2026**: I contributed to a [new study](https://www.pnas.org/doi/10.1073/pnas.2530832123) led by [Earle Wilson](https://profiles.stanford.edu/earle-wilson) at Stanford that explains why Antarctic sea ice trends shifted from record expansion to unprecedented decline around 2016. Our work, published in *PNAS*, was featured by [Stanford University](https://sustainability.stanford.edu/news/study-explains-antarctic-sea-ice-growth-and-sudden-decline) and [*New Scientist*](https://www.newscientist.com/article/2520281-warmer-ocean-is-driving-the-antarctic-sea-ice-regime-shift/).
+* **March 2026**: I contributed to a [new study in *PNAS*](https://www.pnas.org/doi/10.1073/pnas.2530832123) led by [Earle Wilson](https://profiles.stanford.edu/earle-wilson) at Stanford that explains why Antarctic sea ice trends shifted from record expansion to unprecedented decline around 2016. Our work was featured by [Stanford University](https://sustainability.stanford.edu/news/study-explains-antarctic-sea-ice-growth-and-sudden-decline) and [*New Scientist*](https://www.newscientist.com/article/2520281-warmer-ocean-is-driving-the-antarctic-sea-ice-regime-shift/).
 
 * **January 2025**: I am excited to be joining the University of Washington's [Applied Physics Laboratory](https://apl.uw.edu) as a postdoctoral researcher, supported by fellowships from the [National Science Foundation's Office of Polar Programs](https://www.nsf.gov/geo/opp/postdoctoral-awardees) (Jan. 2025--Dec. 2026) and the [Washington Research Foundation](https://www.wrfseattle.org/news/washington-research-foundation-awards-12-three-year-postdoctoral-fellowships/) (Oct. 2025--Sep. 2028).
 
