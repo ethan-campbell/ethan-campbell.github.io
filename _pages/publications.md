@@ -41,8 +41,6 @@ Ryu, Y., Marconi, D., Fripiat, F., Smart, S.M., **Campbell, E.C.**, Fawcett, S.E
 </small>
 </ul>
 
-Wilson, E.A., Arlen, L., **Campbell, E.C.** (2026). Recent extremes in Antarctic sea ice extent modulated by ocean heat ventilation. *Proceedings of the National Academy of Sciences (PNAS)*, **123**(14), e2530832123. doi:[10.1073/pnas.2530832123](https://www.pnas.org/doi/10.1073/pnas.2530832123).
-
 \* **Campbell, E.C.** (2025). Constraining Antarctic polynya formation and sea ice and snow evolution using autonomous observations and modeling [Dissertation]. School of Oceanography, University of Washington. 31768131, 1&ndash;232. [[ProQuest](https://www.proquest.com/docview/3193487908/abstract/F5C6EEB19E034450PQ/1)]
 
 \* Wilson, E.A., Dove, L.A., Gray, A.R., MacGilchrist, G., Purkey, S., Thompson, A.F., Youngs, M., Diggs, S., Balwada, D., **Campbell, E.C.**, Talley, L.D. (2024). Future priorities for observing the dynamics of the Southern Ocean. *Bulletin of the American Meteorological Society*, **105**(12), E2316&ndash;E2323. doi:[10.1175/BAMS-D-24-0254.1](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-24-0254.1/BAMS-D-24-0254.1.xml).
