@@ -33,7 +33,7 @@ Ryu, Y., Marconi, D., Fripiat, F., Smart, S.M., **Campbell, E.C.**, Fawcett, S.E
 
 ## Published
 
-<li style="list-style: none; margin-bottom: 3px;">Wilson, E.A., Arlen, L., <b>Campbell, E.C.</b>. (2026). Recent extremes in Antarctic sea ice extent modulated by ocean heat ventilation. <i>Proceedings of the National Academy of Sciences (PNAS)</i>, <b>123</b>(14), e2530832123. doi:<a href="https://www.pnas.org/doi/10.1073/pnas.2530832123">10.1073/pnas.2530832123</a>.</li>
+<li style="list-style: none; margin-bottom: 3px;">Wilson, E.A., Arlen, L., <b>Campbell, E.C.</b> (2026). Recent extremes in Antarctic sea ice extent modulated by ocean heat ventilation. <i>Proceedings of the National Academy of Sciences (PNAS)</i>, <b>123</b>(14), e2530832123. doi:<a href="https://www.pnas.org/doi/10.1073/pnas.2530832123">10.1073/pnas.2530832123</a>.</li>
 <ul style="list-style: none; margin-left:0px; margin-top:1px;">
 <small>
 <li style="margin-bottom: 0px;">&#8674; Press release: <a href="https://sustainability.stanford.edu/news/study-explains-antarctic-sea-ice-growth-and-sudden-decline">Stanford University</a></li>
