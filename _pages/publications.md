@@ -20,7 +20,13 @@ classes: wide
 
 ## Manuscripts submitted / in prep
 
-**Campbell, E.C.**, Riser, S.C., Webster, M.A. Lagrangian reconstruction of snow accumulation and loss on Antarctic sea ice. In prep for *The Cryosphere*.
+<li style="list-style: none; margin-bottom: 3px;"><b>Campbell, E.C.</b>, Riser, S.C., Webster, M.A. Lagrangian reconstruction of snow accumulation and loss on Antarctic sea ice. Submitted to <i>The Cryosphere</i>. [<a href="/assets/documents/egusphere-2026-2089-manuscript-version1.pdf">preprint</a>; <i>EGUsphere</i> DOI pending]</li>
+<ul style="list-style: none; margin-left:0px; margin-top:1px;">
+<small>
+<li style="margin-bottom: 0px;">&#8674; Preliminary WASSAIL model output fields (2003&ndash;2025) archived on <a href="https://doi.org/10.5281/zenodo.19507961">Zenodo</a></li>
+<li style="margin-bottom: 0px;">&#8674; Model code and documentation available on <a href="https://github.com/ethan-campbell/WASSAIL/">GitHub</a></li>
+</small>
+</ul>
 
 Ryu, Y., Marconi, D., Fripiat, F., Smart, S.M., **Campbell, E.C.**, Fawcett, S.E., Mart&iacute;nez-Garc&iacute;a, A., Haug, G.H., Sigman, D.M. Nitrogen fixation rates in the Atlantic Ocean estimated with total nitrogen isotopes. In prep for *Global Biogeochemical Cycles*.
 
