@@ -28,7 +28,7 @@ classes: wide
 </small>
 </ul>
 
-Ryu, Y., Marconi, D., Fripiat, F., Smart, S.M., **Campbell, E.C.**, Fawcett, S.E., Mart&iacute;nez-Garc&iacute;a, A., Haug, G.H., Sigman, D.M. Nitrogen fixation rates in the Atlantic Ocean estimated with total nitrogen isotopes. In prep for *Global Biogeochemical Cycles*.
+Ryu, Y., Marconi, D., Fripiat, F., Smart, S.M., **Campbell, E.C.**, Fawcett, S.E., Mart&iacute;nez-Garc&iacute;a, A., Haug, G.H., Sigman, D.M. Nitrogen fixation rates in the Atlantic Ocean estimated with total nitrogen isotopes. Submitted to *Global Biogeochemical Cycles*.
 
 **Campbell, E.C.**, Riser, S.C. Antarctic sea ice formation and melt rates estimated from ocean salinity observations. In prep for *Journal of Geophysical Research: Oceans*.
 
