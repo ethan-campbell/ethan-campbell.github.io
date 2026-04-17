@@ -43,7 +43,7 @@ Ryu, Y., Marconi, D., Fripiat, F., Smart, S.M., **Campbell, E.C.**, Fawcett, S.E
 <ul style="list-style: none; margin-left:0px; margin-top:1px;">
 <small>
 <li style="margin-bottom: 0px;">&#8674; Press release: <a href="https://sustainability.stanford.edu/news/study-explains-antarctic-sea-ice-growth-and-sudden-decline">Stanford University</a></li>
-<li style="margin-bottom: 0px;">&#8674; Media coverage: <a href="https://www.newscientist.com/article/2520281-warmer-ocean-is-driving-the-antarctic-sea-ice-regime-shift/">New Scientist</a>, <a href="https://phys.org/news/2026-03-subsurface-triggered-antarctica-sudden-sea.html">Phys.org</a></li>
+<li style="margin-bottom: 0px;">&#8674; Media coverage: <a href="https://www.newscientist.com/article/2520281-warmer-ocean-is-driving-the-antarctic-sea-ice-regime-shift/">New Scientist</a>, <a href="https://grist.org/oceans/deep-diving-robots-help-crack-the-mystery-of-antarcticas-vanishing-sea-ice/">Grist</a>, <a href="https://phys.org/news/2026-03-subsurface-triggered-antarctica-sudden-sea.html">Phys.org</a></li>
 </small>
 </ul>
 
