@@ -20,7 +20,7 @@ classes: wide
 
 ## Manuscripts submitted / in prep
 
-<li style="list-style: none; margin-bottom: 3px;"><b>Campbell, E.C.</b>, Riser, S.C., Webster, M.A. Lagrangian reconstruction of snow accumulation and loss on Antarctic sea ice. Submitted to <i>The Cryosphere</i>. [<a href="/assets/documents/egusphere-2026-2089-manuscript-version1.pdf">preprint</a>; <i>EGUsphere</i> DOI pending]</li>
+<li style="list-style: none; margin-bottom: 3px;"><b>Campbell, E.C.</b>, Riser, S.C., Webster, M.A. (2026). Lagrangian reconstruction of snow accumulation and loss on Antarctic sea ice. <i>EGUsphere</i> [preprint in review at <i>The Cryosphere</i>]. doi:<a href="https://doi.org/10.5194/egusphere-2026-2089">10.5194/egusphere-2026-2089</a>.</li>
 <ul style="list-style: none; margin-left:0px; margin-top:1px;">
 <small>
 <li style="margin-bottom: 0px;">&#8674; Preliminary WASSAIL model output fields (2003&ndash;2025) archived on <a href="https://doi.org/10.5281/zenodo.19507961">Zenodo</a></li>
