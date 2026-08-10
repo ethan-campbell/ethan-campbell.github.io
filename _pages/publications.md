@@ -28,11 +28,11 @@ classes: wide
 </small>
 </ul>
 
-Ryu, Y., Marconi, D., Fripiat, F., Smart, S.M., **Campbell, E.C.**, Fawcett, S.E., Mart&iacute;nez-Garc&iacute;a, A., Haug, G.H., Sigman, D.M. Nitrogen fixation rates in the Atlantic Ocean estimated with total nitrogen isotopes. In review at *Global Biogeochemical Cycles*.
+Ryu, Y., Marconi, D., Fripiat, F., Smart, S.M., **Campbell, E.C.**, Fawcett, S.E., Mart&iacute;nez-Garc&iacute;a, A., Haug, G.H., Sigman, D.M. Nitrogen fixation rates in the Atlantic Ocean estimated with total nitrogen isotopes. In revision at *Global Biogeochemical Cycles*.
 
-**Campbell, E.C.**, Riser, S.C. Antarctic sea ice formation and melt rates estimated from ocean salinity observations. In prep for *Journal of Geophysical Research: Oceans*.
+Ha, R.Y., **Campbell, E.C.**, Young, J.N. Predictors of interannual variability in Antarctic coastal phytoplankton blooms. In prep.
 
-<!-- Ha, R.Y., **Campbell, E.C.** Impacts of recent Antarctic sea ice loss on Southern Ocean phytoplankton blooms. In prep. -->
+**Campbell, E.C.**, Riser, S.C. Antarctic sea ice formation and melt rates estimated from ocean salinity observations. In prep.
 
 
 ---
