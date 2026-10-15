@@ -20,6 +20,9 @@ classes: wide
 
 ## Manuscripts submitted / in prep
 
+<li style="list-style: none; margin-bottom: 3px;">Ha., R.Y.‡, <b>Campbell, E.C.</b>, Young, J.N. Intensification of Antarctic coastal phytoplankton blooms mediated by a lengthening ice-free season. In revision at <i>Geophysical Research Letters</i>. <small><i>(‡ My mentee, an undergraduate researcher)</i></small></li>
+<ul style="list-style: none; margin-left:0px; margin-top:1px;"><small></small></ul>
+
 <li style="list-style: none; margin-bottom: 3px;"><b>Campbell, E.C.</b>, Riser, S.C., Webster, M.A. (2026). Lagrangian reconstruction of snow accumulation and loss on Antarctic sea ice. <i>EGUsphere</i> [preprint]. In revision at <i>The Cryosphere</i>. doi:<a href="https://doi.org/10.5194/egusphere-2026-2089">10.5194/egusphere-2026-2089</a>.</li>
 <ul style="list-style: none; margin-left:0px; margin-top:1px;">
 <small>
@@ -29,9 +32,6 @@ classes: wide
 </ul>
 
 Ryu, Y., Marconi, D., Fripiat, F., Smart, S.M., **Campbell, E.C.**, Fawcett, S.E., Mart&iacute;nez-Garc&iacute;a, A., Haug, G.H., Sigman, D.M. Nitrogen fixation rates in the Atlantic Ocean estimated with total nitrogen isotopes. In revision at *Global Biogeochemical Cycles*.
-
-<li style="list-style: none; margin-bottom: 3px;">Ha., R.Y.‡, <b>Campbell, E.C.</b>, Young, J.N. Intensification of Antarctic coastal phytoplankton blooms mediated by a lengthening ice-free season. In review. <small><i>(‡ My mentee, an undergraduate researcher)</i></small></li>
-<ul style="list-style: none; margin-left:0px; margin-top:1px;"><small></small></ul>
 
 **Campbell, E.C.**, Riser, S.C. Antarctic sea ice formation and melt rates estimated from ocean salinity observations. In prep.
 
